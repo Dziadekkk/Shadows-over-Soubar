@@ -13,7 +13,6 @@
 
 
 **Author:** Charles Bisson  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/sos/">Spellhold Studios</a>  
 **Mod Forum:** <a href="http://www.shsforums.net/forum/195-Shadows-over-soubar/">Shadows over Soubar</a>  
 
 
@@ -177,7 +176,7 @@ This component requires the main component to be installed. It patches BGmain.ex
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - The creators of the Baldur's Gate series: <a href="http://www.bioware.com/">Bioware</a> and <a href="http://www.obsidian.net/">Black Isle Studios</a>.
 - Italian translation: Ilot in collaboration with Mother Anorexia, Hicarus87, Giuseppe, Bhoo the hero.
 - Spanish translation: SirLancelot's Team.
