@@ -1,0 +1,13 @@
+@0    = ~Wachmistrzu <CHARNAME>. Mamy rozkaz, by pomóc ci w twoim zadaniu. Bêdziemy pod¹¿aæ za tob¹ i pomagaæ, jeœli czegoœ bêdziesz potrzebowaæ.~  ~Wachmistrzyni <CHARNAME>. mamy rozkaz, by pomóc ci w twoim zadaniu. Bêdziemy pod¹¿aæ za tob¹ i pomagaæ, jeœli bêdziesz czegoœ potrzebowaæ.~
+@1    = ~Wachmistrzu <CHARNAME>? Wchodzimy do tej tawerny? Jeœli tak, to muszê wydaæ moim ludziom odpowiednie rozkazy.~ ~Wachmistrzyni <CHARNAME>? Wchodzimy do tej tawerny? Jeœli tak, to muszê wydaæ moim ludziom odpowiednie rozkazy.~
+@2    = ~Nie, ¿o³nierzu. Dlaczego nie pójdziesz teraz ze mn¹? Mamy inne zadania, które musimy wykonaæ.~
+@3    = ~Tak jest, ¿o³nierzu. Dziœ wieczór bêdziemy chroniæ Narwal. Nie chcê widzieæ ¿adnych karczemnych bójek. Jeœli pojawi¹ siê problemy, pojmiemy wiêŸniów, tak wiêc byæ mo¿e trzeba bêdzie u¿yæ p³azów waszych mieczy.~
+@4    = ~Tak jest, wachmistrzu.~ ~Tak jest, wachmistrzyni.~
+@5    = ~Tak jest, wachmistrzu. Jednak jeœli mamy tylko zapobiegaæ przestêpstwom, dlaczego nie weŸmiemy tego? Bêdzie bardziej pomocne, ni¿ twoja broñ.~ ~Tak jest, wachmistrzyni. Jednak jeœli mamy tylko zapobiegaæ przestêpstwom, dlaczego nie weŸmiemy tego? Bêdzie bardziej pomocne, ni¿ twoja broñ~
+@6    = ~Spotkamy siê w œrodku.~
+@7    = ~Tak jest, wachmistrzu <CHARNAME>? Jakie rozkazy?~ ~Tak jest, wachmistrzyni <CHARNAME>? Jakie rozkazy?~
+@8    = ~Nic, ¿o³nierzu. Tak trzymaæ.~
+@9    = ~Wygl¹da na to, ¿e nasze obowi¹zki tutaj s¹ zakoñczone. Wróæmy do koszar. Dalej.~
+@10   = ~Ci ludzie tylko sobie pij¹, wachmistrzu <CHARNAME>. Tak d³ugo, jak nie powoduj¹ ¿adnych problemów, nasza interwencja nie bêdzie potrzebna.~ ~Ci ludzie tylko sobie pij¹, wachmistrzyni <CHARNAME>. Tak d³ugo, jak nie powoduj¹ ¿adnych problemów, nasza interwencja nie bêdzie potrzebna.~
+@11   = ~WACHMISTRZU <CHARNAME>! LUDZIE Z TRIEL SIÊ AWANTURUJ¥! TO WBREW PRAWU! MUSISZ ICH ARESZTOWAÆ ALBO ROZKAZAÆ OBIÆ!~ ~WACHMISTRZYNI <CHARNAME>! LUDZIE Z TRIEL SIÊ AWANTURUJ¥! TO WBREW PRAWU! MUSISZ ICH ARESZTOWAÆ ALBO ROZKAZAÆ OBIÆ!~
+@12   = ~Zgodnie z rozkazem!~

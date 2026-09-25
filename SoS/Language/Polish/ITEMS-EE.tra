@@ -1,0 +1,1221 @@
+@20423 = ~W chwili wypowiedzenia słowa mocy wszystkie istoty w promieniu 6 metrów od celu (w zasięgu wzroku używającego) muszą wykonać udany rzut przeciw różdżkom, w przeciwnym razie na okres 2-8 rund zostaną opanowane przez, powodujący w czasie walki obniżenie celności o 4 i zdolności obronnych o 1, wyniszczający ból. Słowo mocy może zostać wymówione tylko raz dziennie, a amulet musi być dzierżony w ręku, by czar zadziałał.
+
+PARAMETRY:
+
+Specjalne:
+ Ofiara otrzymuje -4 do TraK0 i -1 do Klasy Pancerza przez okres 2K4 rund, jeśli nie powiedzie się jej rzut obronny przeciw różdżkom (odporność na magię nie ma znaczenia)
+~
+@20437 = ~Używanie tych znakomicie wypolerowanych bransolet może powiedzieć wiele o tych, których spotykamy. Przez potrząśnięcie ręką innej osoby i zużycie jednego ładunku używający może określić klasę i zajęcie innej osoby; zużycie dwóch pozwala określić charakter. Bransolety nie umożliwią odkrycia pożądanych informacji, jeśli cel jest zabezpieczony amuletem ochrony przed wykryciem, bądź płaszczem o podobnym umagicznieniu. Zazwyczaj mają po 4-40 ładunków i nie mogą być ponownie napełnione.
+
+PARAMETRY:
+
+Specjalne:
+ Pozwalają odkryć klasę i poziom
+ Pozwalają odkryć charakter
+~
+@20438 = ~Ten lśniący mosiężny i niezwykle stary miecz pochodzi sprzed co najmniej trzech tysięcy lat przed Kalendarzem Dolin/KD/. Został wykonany przez Pouldinusa, arcymaga z Netheril, jako dar dla przyjaciela wojownika. Był nim Kalamnin, zagorzały wyznawca Amaunatora, surowego, zawziętego boga, który obecnie jest niemalże zapomniany przez mędrców. Amaunator był bogiem praw i słońca. Wymagał od swoich wyznawców ścisłego przestrzegania praw, które stanowił. Kalamnin starał się jak mógł najlepiej przestrzegać praw Amaunatora w swych peregrynacjach. Miecz zaginął, kiedy Kalamnin poległ w bitwie za sprawą hordy nikodemonów. Czarnoksiężnik, który ich przywołał, niejaki Ylmandi, przechowywał miecz w swojej rodzinie aż do upadku Netheril.
+
+PARAMETRY:
+
+Obrażenia: 2K4 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ Dodatkowe 2K4 +3 obrażeń od ognia przeciwko nieumarłym
+ 5% szansa na rzucenie Płonącej krwi Beltyna przy trafieniu
+ Raz dziennie pozwala rzucić Promień słońca
+Waga: 3
+Opóźnienie: 1
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20440 = ~Ten potężny amulet został wykonany w 727 roku KD przez mistrza zauroczeń Celemona z Calimportu, który zdołał przygotować dziesięć podobnych artefaktów, zanim został zabity przez zawistnych rywali, którzy potem próbowali odkryć tajniki procesu tworzenia amuletów. Niestety, nie byli oni równie utalentowani jak Celemon, dlatego w wyniku popełnionej pomyłki spowodowali wybuch, zabijając siebie samych i niszcząc przy tym laboratorium mistrza razem z tajemną formułą. Ten egzemplarz amuletu należał do elfiego maga-wojownika o imieniu Pelan Rainwind. Zaginął około 840 roku KD, kiedy jego właściciel poległ z rąk olbrzymów w górach Grzbiet Świata.
+
+PARAMETRY:
+
+Specjalne:
+ Rzuca na używającego jednocześnie Kamienną skórę i Klosz niewrażliwości mniejszej
+~
+@20442 = ~Amulet ten ma formę rzeźbionego chrząszcza i można go odnaleźć na terenach wokół Mulhorand. Ten szczególny skarabeusz został wykonany w Thay przez Gulvaka Anraka, potężnego mistrza zauroczeń magicznych przyrządów ochronnych. Gulvak dał tego skarabeusza czeladnikowi Alikowi Banomowi, który został zabity przez żołnierzy cormyrańskich w roku 1021 KD. Mędrcy powiadają, że Alik zaczął walkę z jakimś cormyrańskim księciem, który obraził Thay i Czerwonych Magów. Mimo że Alik był potężny, nie miał żadnych szans z tłumem Purpurowych Smoków, którzy przybyli owemu księciu na pomoc.
+
+PARAMETRY:
+
+Specjalne:
+ +2 do rzutów obronnych przeciw petryfikacji i polimorfii
+~
+@20444 = ~Straszliwy, przeklęty przedmiot, wykonany przez Niri Eddina, calimshańskiego nekromantę. Amulet Mrocznego Ciała to znak choroby i powolnej śmierci. Eddin rozdawał go swym sekretnym wrogom jako prezent i odbierał poprzez swych służących złodziei, kiedy wrogów dopadła już choroba przezeń wywołana. Powiadają, że Niri wciąż "żyje" gdzieś w Krainach, pomimo faktu, że urodził się w roku 832 KD.
+
+PARAMETRY:
+
+Specjalne:
+ Po włożeniu tego pierścienia, używający zostaje sparaliżowany i zarażony chorobą
+~
+@20446 = ~Ta srebrna tarcza niegdyś znajdowała się w Dłoni Seldarine, gdzie służyła do ochrony swego posiadacza przed zgubnym działaniem magii i rozmaitymi atakami. Z uwagi na swe rasowe przystosowanie nie przysłużyła się plądrującym bandom orków i goblinów, którzy pozostawili ją w wieży. Z ruin zabrała ją Panna Ilmadia.
+
+PARAMETRY:
+
+Klasa Pancerza: +3
+Specjalne:
+ +25% do odporności na magię
+Waga: 5
+Wymagana siła: 12
+~
+@20447 = ~Sztylet ten dzierżyła niegdyś Kontik, służka Auril, a jego moc zwiększono pewną ilością magii.
+
+PARAMETRY:
+
+Obrażenia: 1K4 +3
+TraK0: +3
+Typ obrażeń: kłute
+Specjalne:
+ +1 do inteligencji
+ -1 do charyzmy
+ Ustala odporność na zimno na poziomie 100% 
+ -50% do odporności na ogień
+ Dwa razy dziennie pozwala rzucać Stożek zimna
+Waga: 1
+Opóźnienie: 2
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+Wymagana siła: 3
+~
+@20449 = ~Gond, bóg twórczości i wynalazków, jest rzadko czczony przez tradycyjnych podróżników. Jednakże niektórzy złodzieje wielbią go za rolę, jaką odegrał w rozwoju przeróżnych zamków, pułapek i innych złożonych maszyn. Jednym z takich złodziei był Jurmar Spokojny, który swoją karierę zaczynał jako ślusarz. Znany ze swego spokojnego usposobienia i pewnej ręki Jurmar zapłacił kapłanom Gonda za wykonanie tego przyrządu. Kiedykolwiek Jurmar utknął w jakiejś sytuacji, w której nie miał właściwych narzędzi dla siebie, natychmiast w jednej z małych kieszonek przy pasie znajdował narzędzie, którego potrzebował.
+
+PARAMETRY:
+
+Specjalne:
+ +10 do Otwierania zamków
+ +5 do Szukania pułapek
+~
+@20451 = ~Straszliwa broń, stworzona przez piękną, a zarazem okrutną czarodziejkę, czcicielkę pani nieszczęść Beshaby. Na imię miała Redani. Znana była ze swych mocy magicznych. Miłość Czarnej Bess przekazywała swemu ulubionemu adoratorowi w dowolnym momencie. Jej kochankowie nie wiedzieli jednak, że na wekierze kładła zawsze Pierścień Gotowości, przez co udawało jej się zachować pierścień pojednania na specjalną okazję. Kiedy znudziła się kochankami, a z reguły tak się działo, wówczas wręczała pierścień pojednania nowemu kochankowi, zlecając mu zabójstwo byłego kochanka. Nowy kochanek musiał tylko wezwać pierścień, a wekiera sama doń przylatywała.
+Na swoje nieszczęście, Redani została zamordowana, kiedy powierzyła zabójstwo poprzedniego kochanka niewłaściwemu człowiekowi. Gural z Chessenty, dobrze zakonspirowany kapłan Hoara, zobowiązał się pomścić pewnego człowieka, którego czaszkę znalazł na skraju gościńca. Pech Redani polegał na tym, że kapłani Hoara zrobią wszystko, aby pomścić zmarłych, nawet gdyby to oznaczało ożywienie jej wszystkich zmarłych kochanków, którzy rozerwaliby ją na strzępy.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +4
+TraK0: +3
+Typ obrażeń: obuchowe
+Specjalne:
+ 10% wszystkich trafień sprawia, że ofiara traci 4 punkty Szczęścia 
+Waga: 7
+Opóźnienie: 5
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20453 = ~W środku tego szklanego naczynia znajduje się kosztowna mieszanka oliwy i innych chemikaliów. Po podpaleniu płonie przez kilka sekund w wysokiej temperaturze. Czasami ciężko posłużyć się płonącą oliwą, ponieważ dużo czasu zajmuje jej posiadaczowi opanowanie umiejętności wykonania poprawnego rzutu. Poszukiwacze przygód często mają oliwę przy sobie, aby mieć obronę przed trollami, na wypadek gdyby się na nich natknęli.
+
+PARAMETRY:
+
+Po trafieniu w cel szklane naczynie rozbija się, rozlewając płonącą oliwę na wszystko w promieniu 1,5 metra i powodując 2-16 obrażeń od ognia.
+~
+@20459 = ~Nazwany tak z uwagi na zdolność do kładzenia wroga pokotem miecz ten był używany przez najemnika Adala Kerrna. Kerrn był dobrze wyszkolonym żołnierzem ciężkiej piechoty. Wraz ze swą kompanią zwaną Zabijakami Kerrna, wynajmowali swe usługi przeróżnym watażkom, bandytom, magom i przywódcom religijnym. Zwykle umieszczano ich na przedzie frontu, aby mogli przechwytywać nacierające ciężkie jednostki kawalerii i łamać ich szyki. Kerrn zginął w roku 1054 KD, kiedy przypadkowo zabił konia pod pewnym zaciężnym nieprzyjacielem. Koń przewrócił się na Kerrna, zabijając go. Szaleńcza bitwa, która w chwilę potem rozgorzała, doprowadziła do rozbicia w puch większości ludzi Kerrna. Mimo, że ciała Kerrna nigdy nie znaleziono, to kościół Helma, który go wówczas wynajął, odzyskał jego charakterystyczny miecz.
+
+PARAMETRY:
+
+Obrażenia: 1K10 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Waga: 20
+Opóźnienie: 10
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+~
+@20461 = ~Zbroja ta została wykonana w 1221 roku KD. przez duergarskiego płatnerza pracującego dla pewnego kapłana Bane'a o imieniu Alleri z Zachodniego Waterdeep. Kiedy Alleri był jeszcze młodym kapłanem, często prowokował i atakował agentów Sune, dlatego ludzie Ognistowłosej Pani rzucili na niego zauroczenie, żeby powstrzymać go od prześladowań. Pod wpływem tego zauroczenia Alleri został zmuszony do wykonania na ulicach Waterdeep wielu zawstydzających czynów. Po wielu latach Alleri zdecydował się uczcić swojego boga nienawiści, zlecając wykonanie zbroi, która chroniłaby go przed zauroczeniami. W tym celu zasięgnął rady Bane'a, który powiedział mu o materiałach i rytuałach potrzebnych do stworzenia takiego pancerza. Zgodnie z rozkazami swojego mistrza, Alleri zamordował trzynaście młodych par i kazał wpleść ich obrączki w pasy zbroi. Następnie zabił trzynaście elfów i wymoczył się w ich krwi, przez trzynaście godzin odprawiając odpowiednie modły. Po tych rytuałach zbroja była gotowa. Ochraniała go przed magią Sunitów i napełniała nieposkromioną nienawiścią. Alleri wyruszył na trwającą trzy lata wyprawę wojenną przeciwko agentom Sune, Lliry i Hanali Celanil. Szał zabijania zakończył się dopiero wtedy, kiedy elfi łucznicy i kapłani Corellona Larethiana zastawili na niego pułapkę w pobliżu drogi na północ od Waterdeep.
+
+PARAMETRY:
+
+Klasa Pancerza: 3
+Specjalne:
+ Odporność na Okropne zauroczenie, Zauroczenie, Zamęt, Rozkaz i Bezmyślność
+ -2 do charyzmy
+Waga: 45
+Wymagana siła: 8
+~
+@20463 = ~Ten elfi płaszcz, utkany z jedwabiu w wełny, był własnością potężnego czarnoksiężnika z Myth Nantar, imieniem Mithran Lightpetal. Mirhran znany był z umiłowania podróży, oraz z faktu, że był akceptowany przez "N'TelQuessir", albo "nie ludzi", nie-elfich mieszkańców świata. Płaszcz stał się właściwie przyczyną jego klęski, gdyż został on utkany i umagiczniony przez jego kochankę, mroczną elfkę, Rauve Vrinn. Styl tego czarnogranatowego płaszcza był tak wyraźnie nie elfi, że jego towarzysze stali się podejrzliwi.
+W końcu znajomy Mithrana, elfi łowca drowów imieniem Gaedel, odkrył odosobnioną kryjówkę Rauvy w lasach otaczających Myth Nantar. Z małą grupą wojowników, Gaedel napadł na jej chatę i zabił ją. Kiedy Mithran odkrył co się stało, wpadł w szał. Mag zabił Gaedela i jego braci, równając ich domek myśliwski z ziemią. Rodzina Gaedela zdecydowała się zemścić, zabijając nie wiedzącego, co dalej robić, Mithrana. Jego płaszcz został odzyskany przez jego dobrego przyjaciela, krasnoludzkiego wojownika Haela Bronzelake. Gdyby nie to, pochłonęłyby go fale Morza Spadających Gwiazd, które zalało Myth Nantar kilka lat później.
+
+PARAMETRY:
+
++3 do Klasy Pancerza
+Specjalne:
+ +2 do rzutów obronnych
+~
+@20465 = ~Ten ciemny napój zawdzięcza swą nazwę kupcom z Berdusk, którzy ustalili jego recepturę. Kupcy ci mieli zawsze wiele różnych spraw do załatwienia i żyli w ciągłym pośpiechu, przez co czuli się zmęczeni i niedospani. Po wypiciu tego napoju, znikają efekty zmęczenia i znużenia, pozwalając na dokończenie tego, co zostało rozpoczęte.
+
+PARAMETRY:
+
+Usuwa zmęczenie, tak, jak gdyby pijący przespał całą noc
+~
+@20467 = ~W roku 834 KD, pewien czarodziej znany jako Legedain Mądrzejszy schwytał znamienitego złodzieja, który akurat włamywał się do jego wieży. Złodziejem okazał się być cyniczny włamywacz o imieniu Ilfain Czarne Pióro. Legedain był już w podeszłym wieku, a jego słabowite ciało zaczynało już dawać mu się we znaki. Aby znaleźć wyjście z tej sytuacji, uciekł się do czaru znanego jako Magiczna wibracja. W ten sposób sprawił, aby umysł Ilfaina wniknął w jeden z klejnotów, które posiadał. Następnie dusza Legedaina przeszła do ciała młodego elfa. Klejnot pozostał na półce. Po stu latach Legedain postanowił coś z nim zrobić. Wykonał miecz dla swojego młodego i aroganckiego ochroniarza, Gundaka, a umysł Ilfaina przemieścił z klejnotu do owego miecza. Ilfain, który za życia miał wysoko rozwinięty zmysł krytyczny, zaczął telepatycznie krytykować poczynania Gundaka w jakiejś potyczce. Gundak zdenerwował się na miecz i porzucił go w jakiejś ulicy. Przechodził on z rąk do rąk, ale każdy z jego posiadaczy wkrótce pozbywał się go. W miarę upływu czasu przylgnęła doń obecna nazwa.
+
+PARAMETRY:
+
+Obrażenia: 2K4 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Specjalne:
+ Raz dziennie pozwala rzucać Szukanie Pułapek
+ Raz dziennie pozwala rzucać Otwarcie
+Waga: 4
+Opóźnienie: 5
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@20469 = ~Ekscentryczny mistrz magii Zilzanzer, słynący ze swego Pierścienia Gorgony, był także twórcą pewnej ilości magicznych broni strzeleckich. "Wspaniałe strzałki Zilzanzera" sprzedano wielu jego kolegom. W przeciwieństwie do wielu innych wytworów Zilzanzera, jego strzałki rzeczywiście działały dokładnie zgodnie z jego wolą. Zanim przedwcześnie umarł, zdążył stworzyć wiele takich strzałek.
+
+PARAMETRY:
+
+Obrażenia: 1K3 +2
+Typ obrażeń: pocisk (kłute)
+Specjalne:
+ Niezależnie od klasy można rzucić pięć strzałek Zilzanzera w jednej rundzie
+Opóźnienie: 1
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+~
+@20471 = ~Fechmistrz Naradon z Thesk był znany z tego, że potrafił szybko pokonać wrogich magów, nawet w obliczu przeważających sił nieprzyjaciela. Udawało mu się to dzięki trzem przedmiotom: miksturom szybkości, butom szybkości i dzięki swojemu mieczowi, Zagłuszaczowi czarów. W przeciwieństwie do większości innych broni magicznych, historia Zagłuszacza nie jest ani mroczna, ani związana z niezliczonymi trupami. Naradon zrezygnował z wypraw w poszukiwaniu przygód, kiedy miał trzydzieści dwa lata. Nadużywanie mikstur szybkości dało się we znaki, kiedy umarł śmiercią starca cztery lata później. Jego jedyny spadkobierca nie miał w sobie żyłki poszukiwacza przygód, dlatego kilka lat po śmierci ojca sprzedał jego miecz pewnemu włamywaczowi. Broń Naradona można rozpoznać po wygrawerowanym wizerunku zimorodka.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+TraK0: +2
+Typ obrażeń: kłute
+Specjalne:
+ 50% szansa na uniemożliwienie przeciwnikowi rzucania czarów przez okres 2 rund
+ +1 do rzutów obronnych przeciw czarom
+ +5% do odporności na magię
+Waga: 1
+Opóźnienie: 1
+Rodzaj biegłości: krótki miecz
+Typ broni: 1-ręczna
+Wymagana siła: 5
+~
+@20475 = ~Stworzona w czasach Złotego Wieku elfów z Dłoni Seldarine i krasnoludów z Głębi Dorna, szata ta była własnością elfich magów z Dłoni. Choć niezbyt wygodna, zapewniała noszącemu ochronę przed zimnem, ogniem i elektrycznością.
+
+PARAMETRY:
+
+Klasa Pancerza: 9
+Specjalne:
+ -2 do zręczności
+ +40% do odporności na zimno
+ +40% do odporności na ogień
+ +40% do odporności na elektryczność
+Waga: 10
+~
+@20479 = ~Ten srebrnoczarny morgensztern został stworzony przez cormyrskiego nekromantę, Dametha Bladego. Chociaż wygląda na groźną broń, ten pozbawiony ozdób przedmiot, kryje w sobie straszliwą moc. Został on sprzedany kapłanowi Myrkula, który wykorzystywał go w walkach z poszukiwaczami przygód. W końcu jednak kapłana pokonał paladyn Lathandera, który zabrał broń ze sobą. Historia tego morgenszterna zakończyła się, gdy w 1190 KD, świątynia w której się znajdował, została złupiona przez olbrzymy.
+
+PARAMETRY:
+
+Obrażenia: 2K4 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Specjalne:
+ 10% szansa rzucenia na używającego Leczenie lekkich ran i dodania +1 do siły na okres 5 rund
+Waga: 9
+Opóźnienie: 4
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+Wymagana siła: 11
+~
+@20481 = ~Rękawica męstwa to niezwykle wartościowy przedmiot magiczny, będący częścią jednego z trzech pozostałych Oręży Mocy, wykonanych przez elfich arcymagów z Myth Drannor. Miały one służyć obrońcom prastarego miasta elfów w tych rzadkich przypadkach, gdy było ono w niebezpieczeństwie. Ta wiecznie lśniąca rękawica to szczyt kunsztu i magii elfów. Wielu poszukiwaczy przygód i ambitnych łotrów w Krainach niemało by dało za zdradzenie miejsca, w którym znajdują się wszystkie części Oręży Mocy.
+
+PARAMETRY:
+
+Obrażenia: 1K4 +1
+TraK0: +1
+Typ obrażeń: obuchowe
+Specjalne:
+ Noszący jest odporny na Zauroczenie, Unieruchomienie, Sen i podobne czary
+ Trzy razy dziennie pozwala przyzwać moce Rękawicy i użyć jej jako broni
+ 12% szansa na zadanie dodatkowych 3K6 punktów obrażeń i ogłuszenie celu na 3 sekundy
+Waga: 2
+~
+@20483 = ~Hełm ten był używany przez czterysta lat przez niziołki i gnomy w małej i praktycznie rzecz biorąc nieznanej społeczności zwanej Doliną Pasterza. Codziennie o poranku kapitan straży nocnej wręczał hełm kapitanowi straży dziennej. Codziennie o zmroku kapitan straży dziennej zwracał hełm. I tak to trwało bez przerwy, aż Pheldon Tock, kapitan straży nocnej, postanowił przehandlować ten hełm na inny. Hełm prawdopodobnie zostałby w Sklepie Dziwnych Zbroi Armstronga przez dłuższy czas, gdyby nie pewien znudzony krasnolud, który zakupił go i przytwierdził sobie do opończy w odległych krajach.
+
+PARAMETRY:
+
+Klasa Pancerza: +3
+Specjalne:
+ Noszący zyskuje odporność na Uśpienie i nie odczuwa zmęczenia
+Waga: 2
+~
+@20489 = ~Zbroja wykonana ze skóry najpotężniejszego robaka polarnego w Dolinie Lodowego Wichru, nazywanego przez tubylców "Zimowym królem". Skóra tego zwierzęcia jest niezwykle gruba i twarda, a jednocześnie zadziwiająco lekka. Ma niezwykły wygląd i jest biała, z niewielkimi dodatkami niebieskiego koloru.
+
+PARAMETRY:
+
+Klasa Pancerza: 3
+Specjalne:
+ +25% do odporności na zimno i ogień
+Waga: 25
+Wymagana siła: 12
+~
+@20490 = ~Ta broń została wykonana twoimi rękoma, prowadzonymi przez krasnoluda, Tiernona. Wykuto ją z lodu zdjętego ze ścian Posępnego Mrozu. Stąd ostrze to ma w sobie coś z właściwości lodowca, przejęło też część jego siły, stając się bronią budzącą grozę. Mimo że wykonany został z lodu, jest tylko trochę chłodny w dotyku i nie topi się, nawet jeżeli wystawiony jest na działanie najgorętszych płomieni.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Specjalne:
+ +10% do odporności na ogień i zimno
+ Raz dziennie pozwala rzucić zaklęcie Burza zemsty
+ 5% szansa na zadanie dodatkowych 2K6 pkt. obrażeń od chłodu
+Waga: 3
+Opóźnienie: 1
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@20492 = ~Ten kawałek kości został uformowany na kształt krisa, czyli sztyletu o pofalowanym ostrzu. Co ciekawe, jego klinga od czasu do czasu wydziela czarny, trujący śluz.
+
+PARAMETRY:
+
+Obrażenia: 1K4 +2
+TraK0: +2
+Typ obrażeń: kłute
+Specjalne:
+ 20% szansa na zatrucie ofiary (udany rzut przeciwko śmierci neguje)
+Waga: 3
+Opóźnienie: 2
+Rodzaj biegłości: sztylet
+Wymagana siła: 3~
+@20494 = ~Stworzony w Złotym Wieku elfów z Dłoni Seldarine i krasnoludów z Głębi Dorna dla młodych adeptów magii, miał, dzięki zwiększeniu ich skupienia, umożliwić efektywniejsze rzucanie czarów. Bo chociaż starsi magowie Dłoni byli jednymi z najpotężniejszych w Krainach, to jednak zawsze byli zbyt zaangażowani w różne badania czy eksperymenty, by móc uczestniczyć w mniej istotnych bitwach czy ekspedycjach.
+
+PARAMETRY:
+
+Specjalne:
+ +1 do inteligencji
+~
+@20496 = ~Ta potężna broń składa się z długiego na kilka stóp, zwieńczonego ciężkim ostrzem, styliska. Ten topór może mieć ostrze pojedyncze, lub podwójne, po obu stronach styliska, a dzięki temu być obusiecznym. Jest jednak nieporęczny i tylko biegli wojownicy potrafią zadawać nim ciosy z olbrzymią siłą.
+
+PARAMETRY:
+
+Obrażenia: 1K10
+Typ obrażeń: sieczne
+Waga: 10
+Opóźnienie: 9
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagana siła: 10
+~
+@20497 = ~Była to broń człowieka przeklętego, skazanego na błądzenie wzdłuż i wszerz Faerunu, za zbrodnie popełnione przeciwko elfom z Myth Drannor. Denell Harband był zaangażowany w powstanie "Szlaku Siekiery". Pod rozkazami swego dowódcy, Halvana Czarnego, wolno przebijał się przez elfie lasy pomimo protestów i powtarzających się ataków. Kiedy w końcu elfom udało się go pojmać, z naciskiem stwierdził, że nie jest winny, gdyż wypełniał tylko rozkazy. Rada elfów zdecydowała, że Denell będzie musiał przejść od Wybrzeża Mieczy w Faerunie do granicy na wschodzie i od Wielkiego Lodowca do Lurien. Wypełnienie tego zadania zabrało mu trzydzieści lat. Kiedy skończył, był świetnym wojownikiem, twardym i zaprawionym przez lata na obcych drogach. W drodze powrotnej do domu, przechodząc koło Harrowdale zobaczył drewniany posążek Halvana Czarnego, stojący dumnie w centrum małej wioski. Jednym ruchem ręki wbił swój olbrzymi topór w czoło posągu Halvana. Nie schodząc już z drogi, wrócił do swej chaty, gdzie żył do końca swych dni, jako odludny rolnik.
+
+PARAMETRY:
+
+Obrażenia: 1K10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ +1 do kondycji
+Waga: 10
+Opóźnienie: 6
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagana siła: 10
+~
+@20501 = ~Lirę postępu stworzył bard Sedini Paletto. Sedini był nauczycielem młodych, ambitnych bardów w ciężkich czasach. Instrument ten, cały czas trzymany blisko, pomagał Sediniemu zwalczać tych, którzy atakowali jego bądź jego studentów. Kiedy Sedini postarzał się, przekazał lirę swemu najlepszemu studentowi o imieniu Galwen Alaman. Galwen uczył przez kilka lat zanim postanowił wybrać się w dzikie ostępy i wieść życie poszukiwacza przygód. Niektórzy sądzą, że stracił swój instrument, kiedy przypadkowo upuścił go do mokradła.
+
+PARAMETRY:
+
+Specjalne:
+ Umożliwia zapamiętanie 2 dodatkowych czarów z 2. i 1 z 3. poziomu
+~
+@20503 = ~Ta zbroja została wykonana z żelaza meteorytowego przez krasnoludzkich i elfich kowali podczas Czasu Współpracy. Najwyższy Kapłan Moradina i Najwyższy Kapłan Labelasa Enoretha umagicznili ją swoimi mocami. Niestety, żaden elfi czy krasnoludzki wojownik nigdy nie założył tej kolczugi. Kiedy między Ręką Seldarine i Głębią Dorna pojawiły się zatargi, krasnoludy zamknęły zbroję w skarbcu, odmawiając użyć czegoś, do stworzenia czego przyłożyły rękę elfy.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+Specjalne: 
+ +10 Punktów Życia
+ Regeneruje 1 Punkt Życia na turę
+Waga: 40
+Wymagana siła: 8
+~
+@20505 = ~Ta prosta szata, w celu ochrony noszącego, została nasycona kilkoma magicznymi właściwościami. Dotyczy to zarówno rzutów obronnych, jak i Klasy Pancerza, przez co jest idealnym rozwiązaniem zarówno dla magów, jak i innych, którzy nie mogą nosić masywniejszych bądź mocniejszych zbroi.
+
+PARAMETRY:
+
+Waga: 1
+~
+@20506 = ~Ta na pierwszy rzut oka wytarta szata została "uśpiona" przez Lysan, która nie chciała, żeby ktoś rozpoznał ją jako kapłankę Auril. Wystarczy jednak, że spadnie na nią jeden płatek śniegu, a przeistoczy się w iskrzący, biały płaszcz, który umożliwi temu, kto go nosi, unoszenie się ponad zaspami śnieżnymi i przechodzenie przez nawet najbardziej rwące i lodowate rzeki. Większość kupców nie będzie chciała go odkupić, a jeśli tak, to za bardzo niską cenę, ponieważ uważają oni, że to przedmiot poświęcony Auril, Lodowej Pannie, i prawdopodobnie może przyciągać jej czcicieli... oraz ściągać na właściciela niezadowolenie bogini.
+Stworzona w czasie obrzędów Nadciągających burz (początek zimy), odprawianych ku czci Auril, szata ta została obdarzona odpornością na płomienie, dzięki czemu pozwala temu, kto ją nosi, na ich powstrzymywanie. Choć kapłanki Auril są z natury odporne na zimno i potrafią poruszać się po śniegu i przebywać lodowato zimne rzeki, szaty takie stanowią dodatkową ochronę przed zimnem (co pozwala noszącemu, który był już wcześniej odporny na zimno, na absorbowanie jego energii). W rezultacie osoba ubrana w taką szatę może nawet pochłaniać gorąco z ataków ogniowych. Oprócz tego szatę tę można kilka razy dodatkowo obdarzyć mocą, dzięki której osoba ją nosząca będzie mogła pokonać jakąkolwiek przeszkodę, która ją miała zatrzymać, taką jak zaklęcie Pajęczyna, paraliż ghuli, zaklęcie Unieruchomienie osoby itp.
+
+PARAMETRY:
+
+Klasa Pancerza: +1
+Specjalne:
+ Pozwala na rzucenie Swobody działania (3 ładunki)
+ +1 do rzutów obronnych przeciwko paraliżowi
+ +30% do odporności na zimno
+ +30% do odporności na ogień
+Waga: 1
+~
+@20510 = ~Powszechnie uważa się, że ten piękny miecz został wykuty przez istoty fae. Legendy głoszą, iż wykonano go w chłodnych głębinach Myrloch, jeziora leżącego w środku Gwynneth na wyspach Moonshae. Miecz ma nieziemski wygląd i jest prawdopodobnie bardzo stary. Jedynym, który podobno miał się nim posługiwać, był półelfi bard o imieniu Daen Winterbush. Niektórzy twierdzą, że znalazł on miecz przez przypadek, a potem nagle poczuł przypływ niezwykłej weny twórczej i potężnej wrażliwości w stosunku do otaczającego go świata. Przez czterdzieści lat podróżował i zasłynął wieloma najbardziej niepowtarzalnymi melodiami w Faerunie. Mówią jeszcze, że Daen pod koniec życia stał się zbyt melancholijny na widok nędzy i ubóstwa, z którymi stykał się w swoich podróżach. Podobno kowale fae z Wysp Moonshae z radością powitali go w sercu Myrloch.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ +20 do wiedzy
+Waga: 4
+Opóźnienie: 4
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6~
+@20512 = ~Przednia część tej ogromnej stalowej tarczy udekorowana jest czarnymi, emaliowanymi wzorami. W środku znajduje się jedna czaszka. Wnętrze tarczy wygrawerowane jest starożytnymi napisami. Jedyne słowa, które można odczytać, znajdują się na górze: "A CO Z UMARŁYMI?" Historia tego przedmiotu jak dotąd okryta jest mgłą niewiedzy.
+
+PARAMETRY:
+
+Klasa Pancerza: +4
+Specjalne:
+ +1 do Klasy Pancerza przeciw pociskom
+ Odporność na Palec śmierci i Słowo mocy: Giń
+Waga: 20
+Wymagana siła: 15
+~
+@20514 = ~Ta szata wykonana jest z mocnego materiału i zabarwiona na ciemnoniebiesko, ulubiony kolor jej dumnego właściciela, arcymaga Ogi-Luka. Arcymag urodził się w Sembii i był potężnym człowiekiem, zarówno fizycznie jak i umysłowo. Jednak zwykła siła mu nie wystarczała. Chciał być wyjątkowo silny. Gdy zakładał tę szatę, dumni odsuwali się na bok a chełpiarze milkli. Jednak mimo całej swojej dumy i umiejętności nie był w stanie pokonać mistrza odrzucania, Czerwonego Maga, Neska Vhaltima. Nesk zabrał szatę jako nagrodę. Później została ona skradziona i sprzedana przez pewnego śmiałego łotra.
+
+PARAMETRY:
+
+Klasa Pancerza: 4
+Specjalne:
+ Siła: 18/99
+ +2 do kondycji
+Waga: 5~
+@20518 = ~Pellon Kay nigdy nie pojawiłby się literaturze historycznej z powodu swego talentu muzycznego. Gdyby nie jego słynna lutnia, nikt nigdy by go nie zapamiętał. Urodzony w Sembii i dorastający w muzykalnej rodzinie, Pellon Kay nigdy nie traktował swoich występów poważnie. Gdziekolwiek się pojawiał, jego ostry dowcip i zamiłowanie do konfrontacji przysparzały mu licznych wrogów. Mędrcy uważają, że Milila złościły błazeństwa Pellona, choć Talos uważał go za zabawnego. Avatar Talosa pewnej nocy w jakimś barze widział jak Pellon rozpętał bójkę z ponad dwudziestoma mężczyznami. Jako podarunek za tak wspaniałą rozrywkę Talos dotknął lutni, która leżała w pobliżu nieprzytomnego Pellona. Po tej nocy, Pellon odkrył, że gdy gra na swej lutni, kierując ją w stronę danej grupy ludzi, opada ich szał bojowy. Wiele radości sprawiało mu doprowadzanie w ten sposób do kłótni najemników z żeglarzami. W końcu, Pellon Kay zginął od kuszy ponurego wojownika, który nie pozwolił, by zbliżył się do niego na tyle, by móc użyć swej magicznej lutni. Później ten nieznany wojownik wrzucił lutnię do Morza Spadających Gwiazd.
+
+PARAMETRY:
+
+Specjalne:
+ Podczas gry rzuca na cel Okropne zauroczenie
+~
+@20520 = ~Bardzo niewiele z tych mikstur kiedykolwiek wytworzono. Metody, którymi się posługiwano, zaginęły. Mikstury stworzono w czasach Netherilu z przeznaczeniem dla wyższych rangą kapłanów. Miały za zadanie pozbawiać hartu ducha w zamian za wzrost umiejętności kapłańskich.
+
+PARAMETRY:
+
+Specjalne:
+ -2 do kondycji
+ +1 do mądrości
+Czas trwania: stały
+~
+@20522 = ~Jedynymi materialnymi częściami tej lodowej broni są garda, rękojeść i gałka na rękojeści, które zostały wykonane z lśniącego srebra i stali. Broń powstała w roku 1099 KD, zaś jej twórczynią była wybranka bogini Auril, Ihanora Łaskawa. Ihanora przemierzyła północne tereny, walcząc nieustępliwie z tymi wszystkimi, którzy usiłowali znaleźć schronienie przed chłodem lub walczyli z jego oddziaływaniem. Podróżowała w kompanii yetich, lodowych olbrzymów oraz białego smoka, mrożąc wszystko dookoła. Ihanora została pokonana w roku 1108 KD przez cieszącą się złą sławą Brygadę Czerwonej Maski, dowodzoną przez bezwzględnego zabójcę znanego jako Zawzięty Harley.
+
+PARAMETRY:
+
+Obrażenia: 2K4 +2
+TraK0: +2
+Typ obrażeń: od zimna
+Specjalne:
+ 2% szansa na zamienienie celu w lód
+Waga: 10
+Opóźnienie: 6
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+Wymagana siła: 11
+~
+@20524 = ~Ostatnim właścicielem tego potężnego pierścienia był Edion, umierający nekromanta z Sembii. Wykonał go sam i dla własnych potrzeb. Pod koniec życia tak się do niego przyzwyczaił, że prawie nigdy go nie ściągał. Nosił go na tym palcu, na którym nosi się obrączkę, w imię swojej jedności ze Sztuką.
+
+PARAMETRY:
+Specjalne:
+ Podwaja liczbę dostępnych czarów maga piątego poziomu
+~
+@20526 = ~Ten ciemnobrązowy kaptur przeznaczony jest do noszenia do głowie i ramionach. Wykonany został przez złodzieja/iluzjonistę gnoma Breina Kasztana. Brein używał tego kaptura w czasie swoich przygód przez kilka lat, do czasu, gdy jego ukochana z lat dziecinnych nie przekonała go, żeby się ustatkował. Kaptur przekazał bratankowi, Chirchetowi, który z kolei oddał go w zamian za duży obszar ziemi.
+
+PARAMETRY:
+
+Klasa Pancerza: +2
+Specjalne:
+ +10% do Krycia się
+ Raz dziennie pozwala rzucać Ociemniałość i Migoczące barwy
+Waga: 2
+~
+@20528 = ~Jest to jedna z wielu pięknych czarodziejskich szarf, jakie powstały w południowym dorzeczu Zakhary. Ten luksusowy jedwabny przedmiot został stworzony, by chronić jego posiadaczy przed atakami. Bractwo Prawdziwego Słońca, grupa świątobliwych zabójców, przyznawało takie szarfy swoim najbardziej oddanym sługom. Ta konkretna szarfa była ostatnio w posiadaniu świątobliwego zabójcy Khamu Bedi. Ciąg delikatnych czarnych znaków na czerwonym jedwabiu tworzy napis: "Bądź szybki, potężny i bezlitosny. Ponad wszystko jednak bądź moralny".
+
+PARAMETRY:
+
+Specjalne:
+ Używający znajduje się pod wpływem Rozmycia
+Waga: 2~
+@20532 = ~Emanująca bladoniebieską poświatą, ta gigantyczna broń to ząbkowany, oburęczny miecz zrobiony z kości. Od czasu do czasu jego uderzenie powoduje marznięcie ofiary na kość.
+
+PARAMETRY:
+
+Obrażenia: 1K10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ 20% szansa na zadanie dodatkowych 1K10 pkt. obrażeń od zimna
+Waga: 25
+Opóźnienie: 10
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+~
+@20535 = ~Kołysanka Owaina została stworzona przez niezrównoważonego barda Owaina Dudziarza. Dudziarz był wyznawcą Auril, urodzonym w mieście Silverymoon, od małego wystawianym na wpływ oziębłej atmosfery swej ojczystej krainy. Podróżował po Morzu Księżycowym, gdzie spotkał maga imieniem Pelham z Moor. Owain i Pelham w końcu stali się dobrymi przyjaciółmi i przez ponad dekadę utrzymywali ze sobą kontakt. W końcu, za niewielką sumę, Pelham umagicznił Kołysankę Owaina, który rzadko używał jej w bitwie, natomiast często, gdy spotykał późno migrujące gęsi, które zadomowiły się na jakimś jeziorze. Dął w swój róg w ten sposób, że gęsi słysząc go, myślały że to dźwięki wydawane przez ich kuzynów lecących na południe, by przezimować. I gdy podnosiły się do lotu, jego róg zamrażał je w połowie drogi, gdzie nieuchronnie ginęły.
+
+PARAMETRY:
+
+Specjalne:
+ Podczas gry rzuca Stożek zimna, który zadaje 10K4 +10 punktów obrażeń
+~
+@20537 = ~Czarodziej Spendelard zdobył sławę dzięki swoim niezwykle praktycznym zaklęciom. W czasie swoich dalekich wypraw, życie często stawiało go w obliczu wielu zagrożeń. W takich sytuacjach używał on do obrony laski, którą sam wykonał. Potem Spendelard wszedł w posiadanie innej laski, która bardziej przypadła mu do gustu, dlatego sprzedał swoją starą broń wędrownemu druidowi Chauntei.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +1
+TraK0: +1
+Typ obrażeń: obuchowe
+Specjalne:
+ +1 do Klasy Pancerza
+ +1 do rzutów obronnych przeciw czarom
+Waga: 3
+Opóźnienie: 3
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20539 = ~Para tych niezwykle mocnych butów należała do tentiańskiego badacza i podróżnika, Bordela Deptacza Dalekich Szlaków. Bordel słynął w krajach basenu Morza Księżycowego ze swych wędrówek po górach. Wraz z grupą podobnych sobie podróżników obierał sobie jakieś miejsce w Faerunie, do którego należało dojść. Następnie uczestnicy zawodów starali się jak najszybciej tam dotrzeć. Bordel wygrał o wiele więcej zawodów niż przegrał. Znany był z tego, że miał niezwykle ciężkie kroki, skąd wziął się jego przydomek "Deptacz". Gdy Bordel poniósł śmierć w lawinie kamieni, pochowano go gdzieś w dzikich ostępach. Kilka lat po jego śmierci zaczęły krążyć pogłoski, jakoby jego buty były zaczarowane, aby wydawać głośny stukot, kiedy Bordel się zbliżał. Pogłoski te wkrótce wymknęły się spod kontroli i zaczęły żyć własnym życiem, do tego stopnia, że zaczęto w nich przypisywać butom Bordela moc burzenia domów. Do czasu, gdy złodzieje ukradli buty dziesięć lat po śmierci Bordela, zdążyły one nabrać tych właściwości, które tak wielu ludzi im przypisywało.
+
+PARAMETRY:
+
+Specjalne:
+ Raz dziennie pozwala rzucać Trzęsienie ziemi.
+Waga: 4
+~
+@20541 = ~Jak inne tego typu, także i ten wykonany został w całości ze stali. Na końcu niemal półmetrowego trzonka umieszczono kruszący kości obuch. Wkomponowano w niego również pewne właściwości magiczne, dzięki czemu stał się bardziej efektywny w walce.
+
+PARAMETRY:
+
+Obrażenia: 1K4 +4
+TraK0: +3
+Typ obrażeń: obuchowe
+Specjalne:
+ Umożliwia zapamiętanie 2 dodatkowych zaklęć 1. i po jednym 2. i 3. poziomu
+Waga: 6
+Opóźnienie: 3
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+Wymagana siła: 9
+~
+@20543 = ~Jak inne tego typu, także i ten wykonany został w całości ze stali. Na końcu niemal półmetrowego trzonka umieszczono kruszący kości obuch. Wkomponowano w niego również pewne właściwości magiczne, dzięki czemu stał się bardziej efektywny w walce.
+
+PARAMETRY:
+
+Obrażenia: 1K4 +5
+TraK0: +5
+Typ obrażeń: obuchowe
+Specjalne:
+ +2 do Klasy Pancerza
+ +15% do odporności na obrażenia kłute
+ +15% do odporności na obrażenia sieczne
+ +15% do odporności na obrażenia obuchowe
+ +15% do odporności na magię
+ +3 do rzutów obronnych przeciw czarom
+ 20% szansa na uleczenie 1K4 PŻ używającego przy trafieniu
+Waga: 6
+Opóźnienie: 3
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+Wymagana siła: 9
+~
+@20545 = ~Broń ta jest wspaniale wykonana i pokryta runami. Widać, że w jej wykonanie włożono wiele wysiłku i czasu. Po uważnym przyjrzeniu się widać, że runy emanują delikatną, niebieską poświatą.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +2
+TraK0: +2
+Typ obrażeń: sieczne
+Specjalne:
+ 25% szansa na zatrucie celu
+Waga: 7
+Opóźnienie: 7
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20547 = ~Broń ta jest wspaniale wykonana i pokryta runami. Widać, że w jej wykonanie włożono wiele wysiłku i czasu. Po uważnym przyjrzeniu się widać, że runy emanują delikatną, niebieską poświatą.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Specjalne:
+ +1 do Klasy Pancerza
+ +1K6 dodatkowych obrażeń obuchowych
+ 10% szansa na ogłuszenie celu
+Waga: 7
+Opóźnienie: 7
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20549 = ~Ta potężna broń składa się z trzonka o długości od 120 do 150 cm i bardzo ciężkiego ostrza, które może znajdować się z jednej strony trzonka, lub dwóch takich ostrzy, po obu stronach. Jest to nieporęczna broń, ale doświadczony wojownik może nim zadawać straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dzięki czemu broń została silnie umagiczniona.
+
+PARAMETRY:
+
+Obrażenia: 1K10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ +10% do odporności na magię
+ +10% do odporności na obrażenia sieczne
+ +10% do odporności na obrażenia kłute
+ +10% do odporności na obrażenia obuchowe
+ +10% do odporności na obrażenia od pocisków
+ +2 do rzutów obronnych
+Waga: 10
+Opóźnienie: 9
+Rodzaj biegłości: topór
+Typ broni: 2-ręczna
+Wymagana siła: 10
+~
+@20551 = ~Broń ta jest wspaniale wykonana i pokryta runami. Widać, że w jej wykonanie włożono wiele wysiłku i czasu. Po uważnym przyjrzeniu się widać, że runy emanują delikatną, niebieską poświatą.
+
+PARAMETRY:
+
+Obrażenia: 2K4 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ +2 do Klasy Pancerza
+ +10% do odporności na obrażenia sieczne
+ +10% do odporności na obrażenia kłute
+ +10% do odporności na obrażenia obuchowe
+ +10% do odporności na obrażenia od pocisków
+ +1 do rzutów obronnych
+Waga: 10
+Opóźnienie: 8
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+Wymagana siła: 11
+~
+@20553 = ~Ten legendarny sejmitar był przez krótki czas własnością wojownika Ilbana z Elturel. To właśnie jego wyprawy do Calimshanu rozsławiły tę broń. Jednak przed Ilbanem, właścicielem Valianta był zabójca z odległej Zakhary. Według mędrców, ten lekki miecz został wykonany na zamówienie bractwa zabójców. Jego właściciele przeżyli wiele niesamowitych pojedynków, głównie dzięki magii miecza. Bractwo straciło go w Calimshanie, gdy jeden ze świętych zabójców ścigał bluźnierczych agentów paszy, którzy udawali się do Calimportu. Przez dwanaście lat sejmitar był własnością Barisa Cabala, aż do momentu, gdy jego banda została rozbita przez Ilbana i jego towarzyszy. Ilban wykorzystał Valianta w bitwach z ludźmi piachu, gigantycznymi skorpionami, jeźdźcami pustyni, złymi czarnoksiężnikami i demonicznymi sługami Celana Harada.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +2
+TraK0: +2
+Typ obrażeń: sieczne
+Specjalne:
+ +1 atak na rundę
+Waga: 4
+Opóźnienie: 0
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+Wymagana siła: 8
+~
+@20556 = ~Ten cienki płaszcz wydaje się na pierwszy rzut oka postrzępiony, ale gdy się mu bliżej przyjrzeć zauważymy, że niby przypadkowe nitki są w rzeczywistości ludzkimi włosami, z których został utkany. W świetle pochodni płaszcz wije się, a kosmyki włosów splatają i rozplatają, tak subtelnie jednak, że wydaje się, jakby muskał go lekki wietrzyk.
+Płaszcz utkany został z włosów dziewic posłanych na Wyspę Grobów, by spać u boku poległych barbarzyńskich wojowników. Pociechę owym kobietom nieść miała Wieszczka, to ona miała koić ich ból, a czyniła to biorąc kosmyk włosów od każdej z dziewic i tkając z nich płaszcz, który miał wydrzeć z nich strach i uspokoić skołatane serca. Powstało okrycie, ociekające winą i stanowiące wątpliwą osłonę przed zimnem Północy.
+Gdy go założyć, włosy oplatają ciało właściciela, a długie kosmyki splatają się jakby tkane na krośnie. Płaszcz nie rozplącze się sam, dopóki nie potraktuje się go czarem Zdjęcie Klątwy.
+
+PARAMETRY:
+
+Specjalne: 
+ +4 do Klasy Pancerza przeciw obrażeniom obuchowym, kłutym i pociskom
+ +2 do Klasy Pancerza przeciw obrażeniom siecznym
+ Noszący jest odporny na wszystkie efekty opierające się na Strachu i Emocjach
+ Raz dziennie pozwala przywołać Płaszcz strachu
+Waga: 1
+~
+@20558 = ~W świątyniach Waukeen rozsianych po całym Faerunie można znaleźć kilkanaście takich tarcz. Kościół wytwarza te zbroje i sprzedaje przedsiębiorczym poszukiwaczom przygód. W zamian za moce ukryte w tarczach, są oni zobowiązani nie zakrywać ich z przodu i zachowywać je w pierwotnym stanie. Jeżeli nabywca tarczy nie zgadza się na te warunki, wówczas moc tarczy zanika. W ten sposób dziesiątki poszukiwaczy przygód przemierzają krainy królestwa, mając złotą podobiznę Waukeen na ramieniu.
+
+PARAMETRY:
+
+Klasa Pancerza: +3
+Specjalne:
+ +2 do rzutów obronnych
+ +10% do odporności na magię
+Waga: 4
+Wymagana siła: 4
+~
+@20560 = ~Prawdziwa nazwa tego dziwnego sztyletu zaginęła w mrocznych głębinach Morza Mieczy. Broń ta, wykonana z magicznie wzmocnionej kości sahuagina, była podobno używana przez kuo-toa w czasie tajemniczych rytuałów. Rękojeść tego sztyletu wykonano z korala owiniętego z skórę sahuagina. W pewnym momencie należał on do Lockharta, słynnego złodzieja i przemytnika z Wybrzeża Mieczy. To on nadał ostrzu jego dzisiejszą nazwę.
+
+PARAMETRY:
+
+Obrażenia: 1K4 +2
+TraK0: +2
+Typ obrażeń: kłute
+Specjalne:
+ 2% szansa, że na cel rzucony zostanie Palec śmierci, jeśli ofierze uda się wykonać rzut przeciw czarom, otrzyma 2K8 +1 obrażeń od magii
+Waga: 1
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+Wymagana siła: 4
+~
+@20562 = ~Topór ten został wykonany dla młodego, potężnego wojownika barbarzyńców o imieniu Hegelfden. Kiedy przyszedł na świat w Klanie Łosia, szamani prorokowali, że zostanie wielkim wojownikiem. Hegelfden dorastał w przekonaniu, że jest kimś specjalnym, ważnym i w pewien sposób lepszym niż ci, którzy go otaczają. Zanim skończył siedemnaście lat, był już wojownikiem znamienitym i wielce utalentowanym. Hegelfden, który odznaczał się ogromną posturą, szybkością oraz przebiegłością, nie mógł sobie znaleźć pośród swoich. Podczas podróży przez góry Grzbiet Świata pojmał dwóch krasnoludów, których napotkał w jakiejś jaskini.  
+Zagroził, że nie puści ich wolno, dopóki nie stworzą dlań wspaniałego topora. Krasnoludy niechętnie zgodziły się wypełnić jego wolę. W rezultacie powstał olbrzymi topór bitewny, ostry jak brzytwa, z grubym trzonem. Kiedy krasnoludy poprosiły Hegelfdena, aby ich puścił wolno, barbarzyńca odmówił, chciał bowiem, aby mu usługiwali. Wówczas krasnoludy rzuciły nań klątwę. Powiedziały, że owoc jego nadużycia będzie zarazem jego zgubą. Hegelfden roześmiał się im w twarz i nie zmienił swojej decyzji. Nazajutrz, w bitwie z wrogim szczepem, Hegelfden wpadł w szał bitewny i począł łaknąć krwi, zabijając wszystkich, którzy weszli mu w drogę. Jego współplemieńcy, przekonani że Hegelfden postradał zmysły, zamordowali go. Jego topór pozostał na polu bitwy, kiedy inni wojownicy zanieśli ciało do obozowiska. Gdy wrócili, krasnoludów nigdzie nie było.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Specjalne:
+ 5% szansa przy trafieniu, ze używający wpadnie w berserk na 10 rund
+Waga: 6
+Opóźnienie: 3
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20563 = ~Ta potężna laska jest pokryta czarną skórą, na której wygrawerowano odrażające sceny i nikczemne runy. Pozwala dzierżącemu rzucać Grozę na każdego nią dotkniętego (bez rzutu obronnego), zadając jednocześnie 4-24 punkty, uleczalnych tylko zaklęciami, miksturami lub całodobowym wypoczynkiem, obrażeń. Może również zostać użyta do przyzwania demona typu I (Tanar'ri) i/lub przemiany posiadacza w demona typu III (Zabójca) na jedną turę. Każda z tych funkcji może być użyta tylko raz dziennie.
+
+PARAMETRY:
+
+Obrażenia: 4K6
+Typ obrażeń: obuchowe
+Specjalne:
+ Przy każdym trafieniu wywołuje Grozę u przeciwnika (bez rzutu obronnego)
+ Raz dziennie pozwala przyzwać Tanar'ri
+ Raz dziennie pozwala dzierżącemu zmienić się w Zabójcę
+Waga: 3
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20567 = ~Okulary zasięgu używane są zazwyczaj przez zwiadowców lub wartowników, zarówno w wojskach zaciężnych, jak i w armiach. Korzyści wynikające z możliwości ujrzenia i kontroli aktywności pojedynczych wrogów, bez użycia, mogących zaalarmować magów przeciwnika, czarów, zdecydowanie przeważają nad wadami - kiedy samotny zwiadowca znajduje się naprzeciw większej grupy.
+Tę parę otrzymałeś od prefekta Straży Miejskiej Soubar. Pozwalają, za pomocą Dalekowzroczności, jednak bez konieczności użycia magii, odkryć na mapie mały obszar oddalony od używającego. Prefekt sugerował użycie ich do tropienia bandytów kręcących się przy gospodarstwach na północ od Soubar, zalecając stosowanie, aż do zakończenia mojej misji.
+
+PARAMETRY:
+
+Specjalne:
+ Trzy razy dziennie pozwala rzucić Dalekowzroczność
+~
+@20597 = ~Ten rzadko spotykany, przechowywany zazwyczaj w małych fiolkach proszek, jest wysoko ceniony przez poszukiwaczy przygód i nekromantów. Kiedy, po zmieszaniu z wodą, zostanie skonsumowany przez 24 godziny chroni przed wyssaniem poziomów (Ochrona przed negatywną energią). Dla tej zdolności jest poszukiwany przez tych, którzy specjalizują się w walce z nieumarłymi.
+
+PARAMETRY:
+
+Specjalne:
+ Przez 24 godziny chroni pijącego przed wyssaniem poziomów
+~
+@20600 = ~Ceeb Isson - Ekologie: O Piekielnych ostrzach
+Przed wieloma laty opowiadano, że podczas wielkich wojen, kiedy elfy zjednoczyły się przeciw swym mrocznym pobratymcom, by zmusić je do ucieczki w rozległe podziemia, mroczny elf Gulgaraith, doświadczony wojownik/mag, stworzył, w celu przeciwdziałania tym zamiarom, liczne miecze o znacznej mocy. Tak oto Piekielne ostrza ujrzały światło dzienne pojawiając się na powierzchni, w śmiertelnym świecie ludzi. Nikt nie wie, ile tych kling wykuto i umagiczniono, ani ile spośród nich jeszcze istnieje, po tak wielu stuleciach. Jedyne, co jest wiadomym to to, że ostrza te są bronią przepełnioną złem.
+Ogólne efekty: Każde z Piekielnych ostrzy działa, jak zmodyfikowany Miecz Ostrości o umagicznieniu +3, dzięki czemu może odciąć kończynę w przypadku wyrzucenia w sposób naturalny (bez żadnych bonusów) 20. Bronie te są na tyle potężne, że jeśli któraś zostanie złamana, po prostu złączy się z powrotem, a jeśli kiedykolwiek zostanie oddzielona od posiadacza, ze wszystkich sił i niezależnie od okoliczności, będzie dążyć, by znaleźć się w jego zasięgu - odległość nie gra roli, aczkolwiek może wpłynąć na czas powrotu. Przepełnia je jednak zło - najbardziej znaną ich właściwością jest, kiedy naturalnie rzucona zostanie 20, natychmiastowe zabicie celu, który nie może zostać animowany lub wskrzeszony. Każde z tych ostrzy ma jaźń, inteligencję i moce służące do obrony dzierżącego, nie może jednak rozmawiać, używać telepatii i tym podobnych.
+-----------------------------------
+
+Piekielne ostrze: Pożeracz żywotów
+Ten sejmitar jarzy się czystym, rubinowym blaskiem; jego inteligencja wynosi 17, a jaźń 10. Trzy razy dziennie pozwala rzucić na dzierżącego Przyspieszenie, jak mag na dwunastym poziomie.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +3
+Typ obrażeń: sieczne
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20601 = ~Ceeb Isson - Ekologie: O Piekielnych ostrzach
+Przed wieloma laty opowiadano, że podczas wielkich wojen, kiedy elfy zjednoczyły się przeciw swym mrocznym pobratymcom, by zmusić je do ucieczki w rozległe podziemia, mroczny elf Gulgaraith, doświadczony wojownik/mag, stworzył, w celu przeciwdziałania tym zamiarom, liczne miecze o znacznej mocy. Tak oto Piekielne ostrza ujrzały światło dzienne pojawiając się na powierzchni, w śmiertelnym świecie ludzi. Nikt nie wie, ile tych kling wykuto i umagiczniono, ani ile spośród nich jeszcze istnieje, po tak wielu stuleciach. Jedno, co jest wiadomym to to, że ostrza te są bronią przepełnioną złem.
+Ogólne efekty: Każde z Piekielnych ostrzy działa, jak zmodyfikowany Miecz Ostrości o umagicznieniu +3, dzięki czemu może odciąć kończynę w przypadku wyrzucenia w sposób naturalny (bez żadnych bonusów) 20. Bronie te są na tyle potężne, że jeśli któraś zostanie złamana, po prostu złączy się z powrotem, a jeśli kiedykolwiek zostanie oddzielona od posiadacza, ze wszystkich sił i niezależnie od okoliczności, będzie dążyć, by znaleźć się w jego zasięgu - odległość nie gra roli, aczkolwiek może wpłynąć na czas powrotu. Przepełnia je jednak zło - najbardziej znaną ich właściwością jest, kiedy naturalnie rzucona zostanie 20, natychmiastowe zabicie celu, który nie może zostać animowany lub wskrzeszony. Każde z tych ostrzy ma jaźń, inteligencję i moce służące do obrony dzierżącego, nie może jednak rozmawiać, używać telepatii i tym podobnych.
+-----------------------------------
+
+Piekielne ostrze: Wysysacz dusz
+Ten długi miecz jarzy się rachitycznym, fioletowawo-żółtawym blaskiem; jego inteligencja wynosi 17, a jaźń 12. Trzy razy dziennie pozwala rzucić na dzierżącego Ochronę przed negatywną energią, jak kapłan na dwunastym poziomie.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +3
+Typ obrażeń: sieczne
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6~
+@20602 = ~Ceeb Isson - Ekologie: O Piekielnych ostrzach
+Przed wieloma laty opowiadano, że podczas wielkich wojen, kiedy elfy zjednoczyły się przeciw swym mrocznym pobratymcom, by zmusić je do ucieczki w rozległe podziemia, mroczny elf Gulgaraith, doświadczony wojownik/mag, stworzył, w celu przeciwdziałania tym zamiarom, liczne miecze o znacznej mocy. Tak oto Piekielne ostrza ujrzały światło dzienne pojawiając się na powierzchni, w śmiertelnym świecie ludzi. Nikt nie wie, ile tych kling wykuto i umagiczniono, ani ile spośród nich jeszcze istnieje, po tak wielu stuleciach. Jedno, co jest wiadomym to to, że ostrza te są bronią przepełnioną złem.
+Ogólne efekty: Każde z Piekielnych ostrzy działa, jak zmodyfikowany Miecz Ostrości o umagicznieniu +3, dzięki czemu może odciąć kończynę w przypadku wyrzucenia w sposób naturalny (bez żadnych bonusów) 20. Bronie te są na tyle potężne, że jeśli któraś zostanie złamana, po prostu złączy się z powrotem, a jeśli kiedykolwiek zostanie oddzielona od posiadacza, ze wszystkich sił i niezależnie od okoliczności, będzie dążyć, by znaleźć się w jego zasięgu - odległość nie gra roli, aczkolwiek może wpłynąć na czas powrotu. Przepełnia je jednak zło - najbardziej znaną ich właściwością jest, kiedy naturalnie rzucona zostanie 20, natychmiastowe zabicie celu, który nie może zostać animowany lub wskrzeszony. Każde z tych ostrzy ma jaźń, inteligencję i moce służące do obrony dzierżącego, nie może jednak rozmawiać, używać telepatii i tym podobnych.
+-----------------------------------
+
+Piekielne ostrze: Łupieżca dusz
+Ten sejmitar jarzy się szarawym blaskiem; jego inteligencja wynosi 16, a jaźń 13. Raz dziennie pozwala rzucić na dzierżącego Przemianę Tensera, jak mag na trzynastym poziomie.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +3
+Typ obrażeń: sieczne
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20603 = ~Ceeb Isson - Ekologie: O Piekielnych ostrzach
+Przed wieloma laty opowiadano, że podczas wielkich wojen, kiedy elfy zjednoczyły się przeciw swym mrocznym pobratymcom, by zmusić je do ucieczki w rozległe podziemia, mroczny elf Gulgaraith, doświadczony wojownik/mag, stworzył, w celu przeciwdziałania tym zamiarom, liczne miecze o znacznej mocy. Tak oto Piekielne ostrza ujrzały światło dzienne pojawiając się na powierzchni, w śmiertelnym świecie ludzi. Nikt nie wie, ile tych kling wykuto i umagiczniono, ani ile spośród nich jeszcze istnieje, po tak wielu stuleciach. Jedno, co jest wiadomym to to, że ostrza te są bronią przepełnioną złem.
+Ogólne efekty: Każde z Piekielnych ostrzy działa, jak zmodyfikowany Miecz Ostrości o umagicznieniu +3, dzięki czemu może odciąć kończynę w przypadku wyrzucenia w sposób naturalny (bez żadnych bonusów) 20. Bronie te są na tyle potężne, że jeśli któraś zostanie złamana, po prostu złączy się z powrotem, a jeśli kiedykolwiek zostanie oddzielona od posiadacza, ze wszystkich sił i niezależnie od okoliczności, będzie dążyć, by znaleźć się w jego zasięgu - odległość nie gra roli, aczkolwiek może wpłynąć na czas powrotu. Przepełnia je jednak zło - najbardziej znaną ich właściwością jest, kiedy naturalnie rzucona zostanie 20, natychmiastowe zabicie celu, który nie może zostać animowany lub wskrzeszony. Każde z tych ostrzy ma jaźń, inteligencję i moce służące do obrony dzierżącego, nie może jednak rozmawiać, używać telepatii i tym podobnych.
+-----------------------------------
+
+Piekielne ostrze: Zasysacz dusz
+Ten długi miecz jarzy się rachitycznym, zielonkawo-żółtawym blaskiem; jego inteligencja wynosi 17, a jaźń 12. Daje swemu posiadaczowi 37% do Odporności na magię i trzy razy dziennie pozwala rzucić na dzierżącego Klosz niewrażliwości mniejszej, jak mag na dwunastym poziomie.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +3
+Typ obrażeń: sieczne
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@20604 = ~Ceeb Isson - Ekologie: O Piekielnych ostrzach
+Przed wieloma laty opowiadano, że podczas wielkich wojen, kiedy elfy zjednoczyły się przeciw swym mrocznym pobratymcom, by zmusić je do ucieczki w rozległe podziemia, mroczny elf Gulgaraith, doświadczony wojownik/mag, stworzył, w celu przeciwdziałania tym zamiarom, liczne miecze o znacznej mocy. Tak oto Piekielne ostrza ujrzały światło dzienne pojawiając się na powierzchni, w śmiertelnym świecie ludzi. Nikt nie wie, ile tych kling wykuto i umagiczniono, ani ile spośród nich jeszcze istnieje, po tak wielu stuleciach. Jedno, co jest wiadomym to to, że ostrza te są bronią przepełnioną złem.
+Ogólne efekty: Każde z Piekielnych ostrzy działa, jak zmodyfikowany Miecz Ostrości o umagicznieniu +3, dzięki czemu może odciąć kończynę w przypadku wyrzucenia w sposób naturalny (bez żadnych bonusów) 20. Bronie te są na tyle potężne, że jeśli któraś zostanie złamana, po prostu złączy się z powrotem, a jeśli kiedykolwiek zostanie oddzielona od posiadacza, ze wszystkich sił i niezależnie od okoliczności, będzie dążyć, by znaleźć się w jego zasięgu - odległość nie gra roli, aczkolwiek może wpłynąć na czas powrotu. Przepełnia je jednak zło - najbardziej znaną ich właściwością jest, kiedy naturalnie rzucona zostanie 20, natychmiastowe zabicie celu, który nie może zostać animowany lub wskrzeszony. Każde z tych ostrzy ma jaźń, inteligencję i moce służące do obrony dzierżącego, nie może jednak rozmawiać, używać telepatii i tym podobnych.
+-----------------------------------
+
+Piekielne ostrze: Obnażyciel dusz
+Ten krótki miecz jarzy się żółtawym blaskiem; jego inteligencja wynosi 17, a jaźń 12. Trzy razy dziennie pozwala rzucić na dzierżącego Kamienną skórę, jak mag na dwunastym poziomie.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +3
+Typ obrażeń: sieczne
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: krótki miecz
+Typ broni: 1-ręczna
+Wymagana siła: 5
+~
+@20605 = ~Ceeb Isson - Ekologie: O Piekielnych ostrzach
+Przed wieloma laty opowiadano, że podczas wielkich wojen, kiedy elfy zjednoczyły się przeciw swym mrocznym pobratymcom, by zmusić je do ucieczki w rozległe podziemia, mroczny elf Gulgaraith, doświadczony wojownik/mag, stworzył, w celu przeciwdziałania tym zamiarom, liczne miecze o znacznej mocy. Tak oto Piekielne ostrza ujrzały światło dzienne pojawiając się na powierzchni, w śmiertelnym świecie ludzi. Nikt nie wie, ile tych kling wykuto i umagiczniono, ani ile spośród nich jeszcze istnieje, po tak wielu stuleciach. Jedno, co jest wiadomym to to, że ostrza te są bronią przepełnioną złem.
+Ogólne efekty: Każde z Piekielnych ostrzy działa, jak zmodyfikowany Miecz Ostrości o umagicznieniu +3, dzięki czemu może odciąć kończynę w przypadku wyrzucenia w sposób naturalny (bez żadnych bonusów) 20. Bronie te są na tyle potężne, że jeśli któraś zostanie złamana, po prostu złączy się z powrotem, a jeśli kiedykolwiek zostanie oddzielona od posiadacza, ze wszystkich sił i niezależnie od okoliczności, będzie dążyć, by znaleźć się w jego zasięgu - odległość nie gra roli, aczkolwiek może wpłynąć na czas powrotu. Przepełnia je jednak zło - najbardziej znaną ich właściwością jest, kiedy naturalnie rzucona zostanie 20, natychmiastowe zabicie celu, który nie może zostać animowany lub wskrzeszony. Każde z tych ostrzy ma jaźń, inteligencję i moce służące do obrony dzierżącego, nie może jednak rozmawiać, używać telepatii i tym podobnych.
+-----------------------------------
+
+Piekielne ostrze: Spopielacz dusz
+Ten wykonany z czystej czarnej stali sejmitar jarzy się jasnym, czerwonym blaskiem ogni piekielnych; jego inteligencja wynosi 17, a jaźń 12. Daje swemu posiadaczowi pełną (100%) Odporność na ogień i trzy razy dziennie pozwala rzucić na dzierżącego Lustrzane odbicie, jak mag na dwunastym poziomie.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +3
+Typ obrażeń: sieczne
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20616 = ~Tylko najbardziej zdeprawowani i oddani słudzy Pajęczej Królowej godni są otrzymania tych potężnych świętych symboli.
+
+PARAMETRY:
+
+Specjalne:
+ Dodaje dwa dodatkowe zaklęcia 6. i jedno 7. poziomu
+ +5% do odporności na magię
+ +1 do siły
+~
+@20624 = ~Ta potężna broń została przez ciebie znaleziona podczas oblężenia Warowni Lyrara na północ od Soubar. Chroni ona dzierżącego przed wyssaniem poziomów, jak również podnosi jego siłę do 22.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +6
+TraK0: +5
+Typ obrażeń: obuchowe
+Specjalne:
+ Siła: 22
+ Ochrona przed negatywną energią
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+Wymagana siła: 10
+~
+@20626 = ~Ta, znajdująca się w przeciętnym stanie, niezwykle stara zbroja płytowa została przez ciebie znaleziona podczas oblężenia starożytnej Warowni Lyrara w mauzoleum tegoż. Pradawny i przestarzały już sposób jej wykonania powodują pewne spowolnienie ruchów noszącego - ograniczenie to dotyczy jedynie realizacji gwałtownych posunięć, np. ataku, nie mając wpływu na czynności ciągłe, jak chodzenie. Wynagradzają to twarde i mocne płyty, zapewniając 50% odporności na obrażenia obuchowe, sieczne, kłute i od pocisków.
+
+PARAMETRY:
+
+Klasa Pancerza: -1
+Specjalne:
+  +4 do Klasy Pancerza przeciw obrażeniom siecznym
+  Obniża liczbę ataków o 33%
+  +50% do odporności na obrażenia fizyczne
+  +30% do odporności na obrażenia od magii
+Waga: 35
+Wymagana siła: 12
+~
+@20628 = ~Tarcza ta, wraz innym ekwipunkiem Lyrara, została przez ciebie znaleziona w jego zamku na północ od Soubar. W trakcie identyfikacji okazało się, że używający znajduje się pod wpływem Ochrony przed złem, jak gdyby rzucono nań to zaklęcie, tarcza ta zapewnia ponadto większą premię do Klasy Pancerza, niż inne tego rodzaju.
+
+PARAMETRY:
+
+Klasa Pancerza: +4
+Specjalne: 
+ +2 do Klasy Pancerza przeciw pociskom
+ Używający znajduje się pod wpływem zaklęcia Ochrona przed złem
+Waga: 15
+Wymagana siła: 15
+~
+@20638 = ~Wojownik Vanshir przez długi czas podróżował z grupą najemników, spośród których kilkoro nie cieszyło się jego zaufaniem; przyczyną była ich chciwość i egoizm, dlatego trzymał ich w bezpiecznej odległości. Jeden z nich, podstępny złodziej, po jednej z wielkich bitew, kiedy cała kompania leczyła rany, zdecydował się uczynić swoje życie łatwiejszym i zapragnął także reszty zdobyczy. W tym celu postanowił w pierwszej kolejności rozprawić się z najmocniejszym - Vanshirem, wbijając mu w plecy zatruty sztylet, by następnie wyeliminować resztę drużyny. Mimo to Vanshirowi udało się przeżyć i dotrzeć do pobliskiego miasta, gdzie został uleczony, by w trzy lata później, bez pomocy magii, utorować sobie drogę do swojej posiadłości. Został jednak opanowany przez pragnienie zemsty - sprzedał całą swą własność, zażądał zwrotu wszystkich należności i odstręczył większość przyjaciół, by zakupić zamówione, silnie umagicznione ostrze, z pomocą którego mógł dopaść i zabić złodziei.
+Ostrze Vanshira zapewnia odporność na strach, dodaje +3 do Klasy pancerza i +1 do rzutów obronnych. Mieni się ono i pulsuje słabą zielenią.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ Uodparnia dzierżącego na strach/panikę/zamęt
+ +3 do Klasy Pancerza
+ +1 do rzutów obronnych
+Waga: 4
+Opóźnienie: 5
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@20640 = ~Ten srebrny medalion dodaje +2 do wszystkich rzutów obronnych przeciwko czarom.
+
+PARAMETRY:
+
+Specjalne:
+ +2 do rzutów obronnych przeciw czarom
+Waga: 3
+~
+@20642 = ~Ten umagiczniony długi miecz został wykonany z zabarwionego czerwienią srebra, wydaje się jednak być stępiony, poszczerbiony i niemożliwy do wypolerowania. Jego ostrze jest standardowej długości, aczkolwiek nieco cieńsze, niż w innych broniach tego typu, a rękojeść jest osobną częścią wykonaną ze zwykłej stali i owiniętą plecionką utworzoną przez zastosowanie na przemian nitek niebieskiego i zielonego drutu. Jelec z kolei wygląda jak dwa nachodzące na siebie - krzyżujące się na końcach, tworzące () - półksiężyce, z przechodzącą pomiędzy nimi klingą, wzdłuż której, pod wpływem światła księżyca, uwydatniają się tajemnicze glify.
+Ostrze to zostało stworzone jakieś 150 lat temu przez ludzkiego łowcę przemienionego maga z Archwood, zwanego Fraster Brązowy. Wraz z kilkoma towarzyszami pełnili straż w Archwood, kiedy wzmożony napływ wilkołaków spowodował, że spróbował posiadaną mocą stworzyć przedmiot ułatwiający ich eliminację. W zadaniu w tym wsparł go towarzyszący mu druid - z połączenia obu rodzajów magii powstało ostrze nazwane ponownie za sprawą jego późniejszego właściciela.
+Był nim sembijski żołnierz Nazger, który znalazł miecz przed półwieczem. Używał go do zlokalizowania mordujących mieszkańców, znajdującego się dokładnie na północny zachód od Archwood, Highmoon szczurołaków. Po odkryciu ich kryjówki, zabił większość z nich, jednak podczas walki w miejskich kanałach zniknął i nigdy już nie znaleziono niczego z nim związanego, za wyjątkiem tego miecza. Został rozpoznany później na targu, ale zgłoszono to po czasie, kiedy nabyty został przez zmierzającą do Ordulin karawanę.
+Jako, że Nazger nie posiadał żadnej bliskiej rodziny straż miejska nie przeprowadziła poważniejszego śledztwa. W końcu okazało się, że ostrze w kanałach znalazł uliczny żebrak i próbował sprzedać je za żywność na targu, jednak pytany o Nazgera zaklinał się, że nie wie nic więcej.
+Moce miecza mogły zostać przez karawanę odkryte i jako takie zatrzymane, jednak mogli oni nie zdołać tego uczynić i sprzedać to otrze jako zwykły srebrny miecz.
+Miecz Nazgera to pozbawione inteligencji umagicznione ostrze, które dodaje +1 do obrażeń, jednak jego prawdziwa natura ujawnia się w starciu z wszelkimi likantropami, które otrzymują jeszcze dodatkowe 2 punkty (+3) obrażeń. Ponadto użytkownik odczuwa swoiste, podobne do ścierpnięcia ręki, mrowienie, kiedy w odległości 30 metrów pojawi się likantrop, jednak nie otrzyma informacji o jego rodzaju czy ilości, jak również uczucie to nie będzie potężnieć w miarę zbliżania się potwora.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +1, +3 przeciw likantropom
+TraK0: +1, +3 przeciw likantropom
+Typ obrażeń: sieczne
+Waga: 6
+Opóźnienie: 1
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@20645 = ~To mieszczące się w dłoni zwierciadło pozwala trzy razy dziennie wywołać mgłę (jako Mgielny horror) i raz dziennie rzucić na używającego Lustrzane odbicie.
+~
+@20649 = ~Ten magiczny wolumin może przeczytać tylko jedna postać, jakkolwiek zajmuje to cały tydzień. Czytelnik zyskuje stałą, podobną do efektu czaru, swobodę działania, jednak utraci ją, jeśli kiedykolwiek, nawet nieświadomie, spowoduje śmierć jakiejś róży.
+
+PARAMETRY:
+
+Specjalne:
+ Swoboda działania
+~
+@20653 = ~Mówi się, że istnieje sześć takich mieczy. Każdy z tych Przeklętych mieczy +5 został w całości wykonany z czarnego żelaza, a ich rękojeści i klejnoty z kości. Każdy z nich pozwala raz dziennie na rzucenie Symbolu: Śmierć, ponadto absorbuje zarówno czary, jak i zaklęcia, podobnie jak Różdżka absorpcji, jednak bez ograniczenia ilości wchłonięć. Z kolei podczas walki ta przesiąknięta złem broń z każdym trafieniem pozbawia przeciwnika na jeden dzień jednego poziomu.
+
+PARAMETRY:
+
+Obrażenia: 1K10 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Specjalne: 
+ Raz dziennie pozwala rzucać Symbol: Śmierć
+ Przy trafieniu wysysa ofierze jeden poziom
+ Zapewnia dzierżącemu odporność na magię
+Waga: 5
+Opóźnienie: 5
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+~
+@20655 = ~Ten wykonany ze złota lub srebra, z umieszczonym w środku klejnotem lub kryształem, amulet umieszczono na łańcuchu, dzięki czemu może być noszony na szyi. Jeśli PŻ noszącego spadną do -1, jego dusza automatycznie przenoszona jest do kryształu, jak gdyby znalazł się on pod wpływem czaru Magiczny Słój, włączając to znajdujące się w pobliżu stworzenia.
+Jeśli noszący zostanie zabity, jego dusza zostaje przechowana w amulecie do czasu przywrócenia (poprzez Uleczenie lub Zmartwychwstanie).
+
+PARAMETRY:
+
+Specjalne:
+ Chroni noszącego przed nieodwracalną śmiercią, jednak nie przed nią samą
+~
+@20657 = ~Płaszcz ten szyty jest z futra, zazwyczaj silnego i dzikiego zwierza, jak niedźwiedź czy lew. Kiedy jest noszony pozwala używającemu wpaść w szał, jak barbarzyńca na pierwszym poziomie, z wszelkimi zaletami i ograniczeniami; zauważ jednak, że płaszcz nie dodaje dodatkowych punktów biegłości w broniach, czy innych zdolności bojowych, po prostu umożliwia użycie szału. Jeśli używający jest barbarzyńcą, może dzięki niemu użyć swej zdolności więcej razy dziennie.
+
+PARAMETRY:
+
+Specjalne:
+ Dodaje zdolność specjalną - Szał barbarzyńcy
+~
+@20660 = ~Berło to stanowi ponad metrowy kostur z rzeźbionego, siwego drewna wyłożony wzdłuż dziewięcioma mieniącymi się szafirami. Okalają go dwa diamenty: jeden 2,5 centymetrowy z wyrytym znakiem Savrasa Wszechwidzącego stanowi podstawę, zwieńczenie natomiast 7,5 centymetrowy (szacuje się, że posiada 1000 faset) z wygrawerowanym symbolem Azutha.
+W okresie pomiędzy upadkiem Netheril a założeniem Myth Drannor, bogowie Krain walczyli w Kataklizmie Świtu, zapowiadając zniszczenie, jakie miałoby miejsce, jako wynik Upadku Bogów w Roku Cienia. Bogowie ginęli w bitwach, które wstrząsały Krainami, powstawały nowe bóstwa, a Tyche została podzielona na Tymorę i Beshabę. Podczas tych wydarzeń, dwaj (wyniesieni w różnych czasach przez Mystrę, by pomagać jej w nadzorowaniu  magów) bogowie walczyli o zwierzchnictwo. Azuth pokonał Savrasa i uwięził jego esencję wewnątrz potężnego artefaktu, który skonstruował przed rozpoczęciem konfliktu.
+Pan Czarów, jak był nazywany od tego czasu Azuth, zamierzał zatrzymać więżące Savrasa berło, jako oznakę swego urzędu. Jednak Savras, chociaż pozbawiony w wyniku konfliktu znacznej części mocy, był jeszcze na tyle potężny, by teleportować swoje więzienie do Krain, gdzie pozostawał poza zasięgiem zwycięzcy (jako Wszechwidzący i Pan Magii Poznania mógłby zablokować każdą zdolność poznawczą Azutha). Berło szybko zasłynęło jako artefakt, przechodząc w ciągu stuleci przez ręce niezliczonych arcymagów. Z kolei sam Savras zawsze usiłował wydostać się ze swego więzienia, wpływając (jako Duch Berła) na podświadomość wielu magów, by pomogli mu w spełnieniu swego celu.
+Zanim zdołał się uwolnić, Berło dostało się w ręce Sylune Srebrnorękiej, jednej z Siedmiu Sióstr. Savras dał jej trwałą zdolność smokołaka, umożliwiając przyjęcie na życzenie kształtu dorosłego srebrnego smoka. Wszechwidzący uczynił to w nadziei, że uda mu się przekonać ją do uwolnienia go ze starożytnego więzienia, wierząc, że jako jedna z Wybrańców Mystry, dysponuje ona mocą zdolną dokonać tego.
+Sylune, nie ufając upadłemu bogu, pozostała głucha na jego błagania i ze swoich ogromnych mocy oraz Berła korzystała podczas licznych przygód. Ostatecznie na żądanie Azutha (do którego wreszcie dotarły wieści o lokalizacji artefaktu) bez przymusu oddała Panu Magów jego własność. Sylune użyła Berła do odkrycia kilku tajemnic o czynach mocy (bogów) Krain, o których Mystra sądziła, że dla śmiertelnych lepiej byłoby o nich nie wiedzieć.
+Kiedy w końcu Azuth odzyskał swój artefakt, zmartwił się, doznanym ze swojej ręki, długim uwięzieniem Wszechwidzącego. Podczas Czasu Niepokojów Patron Magów przychylił się do prośby Savrasa i uwolnił go w zamian za przysięgę wierności.
+Obecnie Sarvas wciąż jest pozbawiony części mocy, pozostając, aczkolwiek niechętnie, w służbie Azutha, jego domeną są wszelkie wizje i magia poznania. Oba bóstwa wydają się ostrożnie współpracować w przyjaźni, przy ścisłym rozdziale kompetencji. Kilku mędrców spekuluje, że Wszechwidzący próbuje poszerzyć swoją dziedzinę o wyroki losu, z uwagi na umiejętność widzenia przyszłości tak dokładnie, jak przeszłości. Jednak te zamierzenia prawdopodobnie spełzną na niczym, ponieważ takie posunięcie nie przypadłoby do gustu, głównym zainteresowanym, Tymorze i Beshabie.
+Samo Berło znikło nagle podczas uwolnienia esencji Sarvasa, widocznie, podobnie jak w przypadku Cyrinishad, pozostaje niewidzialnym dla boskiego postrzegania. Pojawiające się coraz częściej wieści o jego pojawieniu się w różnych miejscach Faerunu, pozwalają mniemać, iż artefakt ten ciągle znajduje się w Krainach, a także, że wciąż zawiera wiele, z użytej do jego stworzenia, mocy.
+
+PARAMETRY:
+
+Raz na dzień dzierżący może powtórzyć specjalną umiejętność każdego z oczu obserwatora.
+Zdolności te obejmują:
+ Zauroczenie osoby
+ Zauroczenie potwora
+ Uśpienie
+ Zamiana ciała w kamień
+ Dezintegracja
+ Strach
+ Spowolnienie
+ Zadawanie poważnych ran
+ Promień śmierci
+ Promień antymagii
+~
+@20662 = ~Ostrze tego długiego miecza jest niewidzialne, chociaż rozbłyski światła wzdłuż klingi, kiedy trafia w coś - zbroję na przykład - umagicznionego, mogą czasami uczynić je widzialnym. Wszystko, co można zazwyczaj zobaczyć, to ciężka metalowa rękojeść od jelca po klejnot, który stanowi wypolerowana, stalowa kula wielkości małej pomarańczy. Uchwyt z kolei jest owinięty czarną skórą, a dający się zauważyć gładki, masywny metal mieni się na niebiesko.
+W gasnących, schyłkowych dniach Netheril, osobliwy (dla swojego ludu) mag zwany Twyluth Ornadyn wpadł na pomysł, że ratunek dla Netherese (tamtejsi zmarli) leży w odwróceniu ich magicznych umiejętności i przywróceniu do życia, w zgodzie z naturą i innymi żyjącymi. Ornadyn przewidział zapotrzebowanie na bitewną magię, w celu zapewnienia przeżycia ocalonym spośród Netherese przed pozostałymi, mogącymi korzystać przecież z doświadczeń całych swoich żywotów, i przejrzał zbrojownię umagicznionych mieczy, których posiadacze mogli wzajemnie komunikować się, nawet na bardzo duże odległości, poprzez medytację i transmisję za pomocą ostrzy mentalnych obrazów i słyszalnych dźwięków. Przystąpił do tworzenia pary takich mieczy, żeby sprawdzić istniejącą, adekwatną magię i, w razie potrzeby, wzbogacić ją nowymi czarami - jednak został zabity przez zdradzieckiego adepta, który chwycił jedno z umagicznionych ostrzy i ściął głowę swego mistrza. Zdekapitowane ciało arcymaga, żyjące wciąż dzięki rzuconym wcześniej zaklęciom ochronnym, podniosło inny miecz, by dokonać zemsty. W walce, która się wywiązała, Ornadyn został pocięty na kawałki, jednak jedno z ostrzy eksplodowało, doszczętnie niszcząc zdrajcę.
+Drugi z mieczy został odnaleziony i stał się własnością arcymaga Netherese Aladosa Sorngola, który przemianował go na Miecz Snów, z powodu wizji, które wciąż przynosił. Źródłem tych obrazów było umagicznienie ostrza i powracający duch Ornadyna, który wysyłał wciąż zjawy, żeby przestraszyć nowego posiadacza i wydrzeć mu kontrolę nad mieczem. Ich osiągnięciem było dodatkowe umagicznienie, jakie przerażony Alados wkomponował w tę broń - miało stać się niszczycielem nieumarłych. Nie pomogło to Sorngolowi, który wkrótce potem zginął, kiedy Ornadyn wysłał poprzez ostrze ostatni "czar krwi", zespalając żywotność Aladosa z własną nieumarłością, przez co esencje obu wzajemnie się zniszczyły.
+Ostrze Zeladazara może stać się widzialne jedynie dzięki magii. Dzierżący je jest odporny na unieruchomienie, wyssanie energii, jak również otrzymuje korzyści właściwe Pierścieniowi Swobody działania. Jego posiadacz może swobodnie i normalnie poruszać się i atakować, nawet kiedy rzucono nań takie czary, jak Pajęczyna, Unieruchomienie czy Spowolnienie (dzięki Zeladazorowi, dającemu trzymającemu go pełną odporność na nie) czy znajduje się pod wodą (aczkolwiek nie zapewnia tam powietrza do oddychania).
+Miecz zadaje 1K12 punktów obrażeń wszystkim żyjącym istotom (niezależnie od wielkości) i 4K12 przy zakończonym powodzeniem ataku wszystkim nieumarłym; ponadto poprzez samo dotknięcie niszczy duchy.
+
+PARAMETRY:
+
+Obrażenia: 1K12, 4K12 przeciwko nieumarłym
+Typ obrażeń: sieczne
+Specjalne: 
+ Odporność na unieruchomienie
+ Odporność na wyssanie poziomów
+ Swoboda działania
+Waga: 2
+Opóźnienie: 0
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@20664 = ~Tarcza ta została znaleziona w skrzyni w głębiach Gauntlgrym, Utraconego Miasta, przez łowcę imieniem Dzance; jej pochodzenie nie jest znane, jednak wygląda na wykonaną przez krasnoludów. Właściwości jej zostały szeroko opisane w Dziennikach Dzance'a, a sam łowca po zakończeniu swoich przygód, kiedy zamieszkał na Dworze Pani w Silverymoon, przekazał Strażnika w ręce miejscowego rycerza, młodego Belpira. Nowy właściciel natychmiast wyruszył na poszukiwanie przygód, jednak od tego czasu zaginął po nim słuch, a losy zarówno jego, jak i tarczy owiane są tajemnicą.
+Strażnik jest "tarczą +0" - naturalnie umagiczniony, jednak nie dodający żadnej premii do Klasy Pancerza, z wyjątkiem tej, która jest właściwa dla każdej przedstawicielki tego rodzaju broni. Posiada jednak specjalną moc obronną: kiedy jest założona, emanuje specjalnym, niematerialnym polem energii magicznej, otulającym dzierżącego (i tylko jego) jak powietrze. Każdy, skierowany weń z dowolnego, z wyjątkiem przodu, kierunku, Magiczny pocisk uderza w to pole i jest odbijany dokładnie w rzucającego, nie zadając posiadaczowi Strażnika żadnych obrażeń. Absorbuje ono wszystkie, zarówno naturalnego, jak i magicznego pochodzenia, wyładowania elektryczne, jak Porażający uścisk, Błyskawica czy Wyładowanie łańcuchowe bez szkody dla noszącego. Ataki te ulegają stopniowemu i nieszkodliwemu rozproszeniu, gdy tarcza zostanie zdjęta, jeśli jednak dzierżący zdecyduje się wejść z nią w kontakt fizyczny z wrogiem, może przenieść cały zgromadzony ładunek elektryczności na tego ostatniego (udany rzut przeciw paraliżowi redukuje obrażenia o połowę). Jeśli właściciel zdecyduje się na tę aktywację, ma 30% szansę na przeniesienie (poprzez Przesunięcie płaszczyzny) wraz tarczą (ale bez jakichkolwiek towarzyszy czy wrogów) do przypadkowej, znanej płaszczyzny egzystencji.
+
+~
+@20666 = ~Zbroja ta otrzymała miano magiczki, która ją zaprojektowała, podobnie jak kilka innych, dla najlepszych w jej, położonym na dalekiej północy, królestwie. Niestety sekret ich tworzenia przepadł, mimo trwających od stuleci prób magów z północy, wraz z jej śmiercią, a z w przybliżeniu tuzina, który stworzono, o dwóch wiadomo, że zostały zniszczone, trzy, używane na północy, pozostają w obiegu, siedem pozostałych zaginęło i nie wiadomo, czy jeszcze istnieją.
+Pancerz burzy stanowi, wykonaną z osobliwego niemetalicznego stopu, pełną zbroję płytową +2. Nie przewodzi elektryczności i ma moc przenoszenia ciepła, w zależności od potrzeby z i do otaczającego powietrza, dzięki czemu noszący ją odczuwa działanie mrożącego wichru lub palącego słońca. Ponadto jest w znacznej części niepodatny na pewne czary, takie jak Ognista kula, Lodowa nawałnica czy Stożek zimna i odporny na jakiekolwiek obrażenia od elektryczności; może również stać lub iść z normalną prędkością nawet pod najsilniejszy wiatr.
+
+PARAMETRY:
+
+Klasa Pancerza: -1
+Specjalne:
+ Swoboda działania
+ Ustala odporność na elektryczność, ogień i zimno na 100%
+Waga: 70
+Wymagana siła: 17
+Wymagana inteligencja: 17
+~
+@20670 = ~Brosza Straży
+Te, noszone jako amulety i ozdoby szyi, mocujące na piersi kamee zdobne agrafy i spinające płaszcze szpilki, misterne brosze powstały w wyniku swoistego szału, który ogarnął modę zarówno wczesnego, jak i współczesnego Myth Drannor. Mimo że każda jest odmienna i unikalna w swym zdobnictwie, szczegółach i materiałach, wszystkie oparte są na podstawowej formie: owalnej kamei wykonanej z kości słoniowej, z tyłu której umocowano dużą metalową szpilę, pozwalającej na umocowanie łańcuszka, pamiątki lub ukrytego przedmiotu, wnęki i standardowego umagicznienia.
+Kiedy giiraegisir zostanie wzięty do ręki i rozłożony wzdłuż oprawy (przesuwa się z cichym stuknięciem, ale nie opuszcza zapięcia) jego bazowa moc zostaje aktywowana: noszący zostaje otoczony niewidzialnym polem energii, które na okres 3 rund zapewnia mu Klasę Pancerza równą 0. Magii giiraegis'u można użyć tylko raz dziennie, potem brosza jest bezużyteczna i pozbawiona mocy przez 24 godziny.
+Wiele giiraegisirów zostało specjalnie zaprojektowanych by przedstawiać określone symbole, takie jak herby dynastii czy pieczęcie magów, lub zawierać kunsztowne upiększenia mające na celu uczynić je istotnymi częściami biżuterii - celem tych drugich było ukazanie raczej majętności posiadającego je elfa, niż jego rzeczywistej mocy. Jednocześnie mogą zostać tak wykonane, by wyglądać na nieodrodną część zawiłego dekoltu sukni szlachcianki, sprzączkę pasa, zbyt duże kolczyki czy nawet na ozdobę opancerzonej rękawicy.
+Możliwe jest także umagicznienie giiraegisirów poprzez umieszczenie w nich pomniejszych zaklęć, które jednak zostają aktywowane jednocześnie poprzez wciśnięcie czy też przesunięcie, dwukrotne potarcie zgodnie z ruchem słońca albo po prostu trzykrotne stuknięcie w ozdobę.
+
+~
+@20672 = ~Pas ten, na pierwszy rzut oka wydaje się być podobny do innych, jednak założony pozwala odkryć kilka innych specjalnych zdolności. Po pierwsze: umożliwia noszącemu zarówno porozumiewanie się z kotami wszelkiego rodzaju, jak i wezwanie najbliższego (zazwyczaj lwa), który będzie służył radą lub wykonywał rozsądne polecenia. Ponadto podczas upadku używający będzie opadał na ziemie w taki sposób, by odnosić jak najmniej obrażeń. Umożliwia również Ciche chodzenie, na tej samej zasadzie, jak zdolność złodziejską, z minimum 50% szansą na powodzenie. Jeśli noszący jest złodziejem, zabójcą, mnichem lub inną klasą czy stworzeniem z tą zdolnością, wtedy do jej naturalnego poziomu dodaje się 50%, aż do maksymalnego - 99%. Na koniec, pas pozwala widzieć w nocy w sposób właściwy kotom - jeśli w zasięgu wzroku znajduje się jakiekolwiek źródło światła, noszący widzi wszystko tak dokładnie, jak gdyby działo się to w dzień.
+
+~
+@20674 = ~Różdżka ta pozwala rzucić Czarodziejskie oko, jednak każde użycie zużywa jeden ładunek. Zasięg i czas trwania czaru jest, niezależnie od poziomu dzierżącego, stały - identyczny, jak dla maga na szóstym poziomie. Rzucający, który nigdy wcześniej nie użył Czarodziejskiego oka, potrzebuje zazwyczaj 1-2 rundy, by zogniskować i zrozumieć widzenie. Różdżki można użyć także do Leczenia oślepienia, poprzez dotknięcie i wypowiedzenie polecenia. Dotknięcie nią oczu jakiejkolwiek istoty pozwoli jej ujrzeć w zasięgu wzroku wszelkie niewidzialne stworzenia i przedmioty, jednak zdolność ta trwa tylko przez następną rundę, ponadto nie opiera się na zasadach promieniowania rentgenowskiego, dlatego istoty ukryte za stałymi przeszkodami nie będą mogły zostać zauważone. Z różdżki, niezależnie od użycia, można skorzystać tylko raz na rundę, ale nie ma ograniczeń, co do rodzaju ładunku. Niestety, nie zostały odkryte żadne metody ponownego jej ładowania.
+
+~
+@20676 = ~Podobnie jak Pierścień czarów, ten potężny, używany zazwyczaj przez maga o wielkiej mocy, kostur pozwala dzierżącemu na zapamiętanie większej ilości czarów, niż wynikałoby to z jego poziomu. Ten kostur został umagiczniony przez maga o znacznej mocy, dzięki czemu ilość dodatkowych czarów jest naprawdę pokaźna.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+TraK0: +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala zapamiętać dodatkowo po 4 czary z poziomów 1-5. i 1 z 6.
+Waga: 3
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20680 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Odrzucania
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20681 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Przywołań
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20682 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Poznania
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20683 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Zauroczeń
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20684 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Inwokacji
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20685 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Iluzji
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20686 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Nekromancji
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20687 = ~Kostur ten dołącza zestaw czarów z danej szkoły magii. Przedmioty takie są niezwykle przydatne dla specjalistów.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+Typ obrażeń: obuchowe
+Specjalne:
+ Pozwala rzucać czary szkoły Przemian
+Waga: 4
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20697 = ~W posiadanie tej potężnej tarczy udało ci się wejść dzięki pokonaniu przywódcy bandytów, Rolfa Niechybne Ostrze, w jego twierdzy leżącej na północ od Soubar. Jest ona naprawdę ważnym przedmiotem i powinno się ją cenić, ponieważ niejednokrotnie może uratować życie, kiedy będziesz przemierzać Faerun. Obniża KP o 6 i dodaje 3 do wszystkich rzutów obronnych, dodatkowo zwiększa prędkość poruszania się o 2 i zapewnia całkowitą odporność na nieumagicznione bronie dystansowe. 
+
+PARAMETRY:
+
+Klasa Pancerza: +6
+Specjalne:
+ Odporność na zwykłe bronie dystansowe
+ Zwiększa prędkość poruszania się
+Waga: 10
+Wymagana siła: 16
+~
+@20699 = ~Ten miecz, dzierżony przeciwko tobie w straszliwej walce, stał się twoją własnością dzięki pokonaniu przywódcy bandytów, Rolfa Niechybne Ostrze, w jego twierdzy leżącej na północ od Soubar. Jest on broną zaiście godną twoich umiejętności, jako, że pozwala przebić się przez osłony większości innych stworzeń. Trafieni przeciwnicy poniżej 18. poziomu natychmiast umierają; zdolność ta staje się przydatna zwłaszcza w walce z wieloma potężnymi przeciwnikami.
+
+PARAMETRY:
+
+Obrażenia: 2K6 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ Wrogowie poniżej 18. poziomu giną natychmiast po trafieniu, chyba, że uda im się rzut przeciw śmierci z modyfikatorem -2
+Waga: 8
+Opóźnienie: 4
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+Wymagana siła: 15
+~
+@20704 = ~Jest to jedna z dość licznie rozpowszechnionych fujarek, mających jedno zadanie: prowadzić szczury dokądkolwiek podąży grający. Podczas grania z instrumentu wydobywają się dziwne, hipnotyzujące dźwięki, które zdają się uspokajać przebywające w pobliżu szczury. Dla jednych jest to błogosławieństwo, dla innych przekleństwo. Zagranie na fujarce przyciąga te gryzonie, gromadzące się licznie wokół źródła muzyki.
+
+PARAMETRY:
+
+Specjalne:
+ Grający przyzywa 25 szczurów
+~
+@20714 = ~Kostur ten może ożywić szkielety, jednak każde takie, zainicjowane słowem "Powstań!", użycie kosztuje jeden ładunek. Szkielety pozostają pod kontrolą dzierżącego (podobnie jak Ożywienie martwego), jednak, jeśli kostur zmieni właściciela, przejmie on kontrolę również nad przywołanymi nieumarłymi. Szkielety muszą mieć czaszki, aczkolwiek nie ma potrzeby, by szkielety były kompletne, jednak ewentualne braki mają oczywiście wpływ na ich działania lub/i zdolności ruchowe. Ożywienie jest trwałe, aż do rozproszenia magii lub zniszczenia nieumarłych.
+Jednak czwarta tych kosturów ma także dodatkową właściwość: potrafi uleczyć złamane nogi, zarówno żyjących, jak i martwych istot. Kosztem jednego ładunku przyłączy utraconą kończynę czy palec, lub przywróci PŻ lecząc rany. Do przyłączenia mogą zostać użyte członki nie należące do poddanego leczeniu; tak więc sterta kości może posłużyć do uzupełnienia uszkodzonych szkieletów. Kostury te wykonane są zazwyczaj z hebanu zakończonego czaszką z kości słoniowej lub skonstruowane z gładko wypolerowanej czaszki połączonej z olbrzymiego rozmiaru kością udową.
+
+PARAMETRY:
+
+Obrażenia: 1K6 +2
+TraK0: +2
+Specjalne:
+ Za cenę jednego ładunku pozwala przywołać szkielety (jak Ożywienie martwego)
+ Pozwala rzucić Leczenie Poważnych ran
+Waga: 3
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5
+~
+@20718 = ~To serce jeszcze do niedawna biło w trzewiach robaka wstrząsów. Posiada właściwości odpowiadające wierzeniom zjadających serca pokonanych wrogów barbarzyńców - sądzą oni, że w ten sposób mogą posiąść ich siłę i mądrość*, z tym że w tym przypadku o 1 na okres 2 godzin wzrastają siła i kondycja, jednak posiłek ten nie pozostaje bez wpływu na jedzącego, który czuje się nieco niezdrów (traci 10 PŻ).
+
+*W rzeczywistości odwagę (przyp. - m)
+~
+@20720 = ~Tak znakomicie wykonana zbroja płytowa została pobłogosławiona przez Torma i jego kler. Napierśnik inkrustowano wizerunkiem świętego symbolu tego boga z wygrawerowanym pod spodem (tuż powyżej dolnej krawędzi) napisem "IRNI", którego znaczenie jest ci nieznane.
+Chociaż nie została umagiczniona, jest jednak uświęcona i przesiąknięta boską opieką - chroni noszącego przed skutkami Negatywnej energii (np. Wyssanie poziomów), dodaje również podobne premie jak Błogosławieństwo Torma.
+
+PARAMETRY:
+
+Klasa Pancerza: 3
+Waga: 18
+Wymagana siła: 12
+~
+@20722 = ~Broń ta została pobłogosławiona przez wszechmogącego Torma, jednak efekty tego zauważalne są jedynie, gdy jest dobyta. Po pierwsze, trafione demoniczne istoty zostają spetryfikowane (chyba, że uda im się wykonać rzut obronny przeciw czarom z modyfikatorem -2). Ponadto dzierżący ostrze otrzymuje po dodatkowym zaklęciu kapłańskim 6 i 7 poziomu, oraz 5% do odporności na magię i +1 do siły.
+
+PARAMETRY:
+
+Obrażenia: 1K10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Specjalne:
+ Dodaje po jednym zaklęciu kapłańskim 6 i 7 poziomu
+ +5% do odporności na magię
+ +1 do siły
+ Wszystkie trafione demoniczne istoty muszą wykonać udany rzut przeciwko czarom z modyfikatorem -2, albo zostaną spetryfikowane
+Waga: 10
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+Wymagana siła: 14
+~

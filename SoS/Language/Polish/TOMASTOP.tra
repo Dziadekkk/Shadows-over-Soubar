@@ -1,0 +1,13 @@
+@0    = ~<CHARNAME>! O ¿esz w mordê! Nie widzia³em ciê szmat czasu. Co s³ychaæ?~
+@1    = ~Nic, Tomas. Czekaj tutaj.~
+@2    = ~Tomas, czy mo¿esz znów do³¹czyæ do naszej dru¿yny? Brakowa³o mi ciebie.~
+@3    = ~Jasna sprawa, przyjacielu. Ruszajmy.~
+@4    = ~<CHARNAME>, nie jesteœ mê¿czyzn¹, za którego ciê uwa¿a³em. Nie s¹dzê, ¿ebym móg³ pozostaæ twoim przyjacielem. Przykro mi, ale czas, by ka¿dy z nas uda³ siê w swoj¹ stronê.~ ~<CHARNAME>, nie jesteœ kobiet¹, za któr¹ ciê uwa¿a³em. Nie s¹dzê, ¿ebym móg³ pozostaæ twoim przyjacielem. Przykro mi, ale czas, by ka¿de z nas uda³o siê w swoj¹ stronê.~
+@5    = ~Do diab³a! Có¿ to? Nie chcesz mnie jako towarzysza podró¿y? Z pewnoœci¹ nadal potrzebujesz mojego doœwiadczenia?~
+@6    = ~Tomas, nie ma dla ciebie miejsca w mojej dru¿ynie. Przykro mi, ale bêdziesz musia³ poszukaæ sobie innej grupy poszukiwaczy przygód.~
+@7    = ~Mam dosyæ twojego dyrygowania mn¹. Ja jestem przywódc¹ tej dru¿yny, a ty niczym wiêcej, ni¿ ¿eruj¹cym na mnie elfem.~
+@8    = ~Tomas, proszê, zostañ i podró¿uj ze mn¹ jeszcze jakiœ czas.~
+@9    = ~No có¿. <CHARNAME>, nie s¹dze, ¿ebym kiedykolwiek do³¹czy³ do grupy równie udanej jak ta. Gdybyœ kiedykolwiek potrzebowa³ utalentowanego elfiego z³odzieja, daj mi znaæ.~ ~No có¿. <CHARNAME>, nie s¹dze, ¿ebym kiedykolwiek do³¹czy³ do grupy równie udanej jak ta. Gdybyœ kiedykolwiek potrzebowa³a utalentowanego elfiego z³odzieja, daj mi znaæ.~
+@10   = ~Zniewa¿y³eœ mnie, <CHARNAME>. Znajdê inn¹ dru¿ynê i zdobêdê wiêcej skarbów, ni¿ ty kiedykolwiek by³byœ w stanie.~ ~Zniewa¿y³aœ mnie, <CHARNAME>. Znajdê inn¹ dru¿ynê i zdobêdê wiêcej skarbów, ni¿ ty kiedykolwiek by³abyœ w stanie.~
+@11   = ~Szerokiej drogi.~
+@12   = ~Brr. Uda³o ci siê przez moment mnie nastraszyæ, <CHARNAME>. Myœla³em, ¿e bêdê musia³ sam gotowaæ sobie obiady.~
