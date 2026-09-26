@@ -111,7 +111,7 @@ LANGUAGE ~Simplified Chinese~
 		 
 LANGUAGE ~Polish by SoM, part of CoB Clan)~
          ~Polish~
-         ~SOS/Language/Polish/mod.tra~ ~SoS/Language/Polish/setup.tra~
+         ~SoS/Language/Polish/mod.tra~ ~SoS/Language/Polish/setup.tra~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -1254,9 +1254,9 @@ END
 
 
 // older mods use SoS-RULE    
-MAKE_BIFF ~SoS-RULE~ BEGIN
-    ~override~ ~SoS.mrk~
-END
+//MAKE_BIFF ~SoS-RULE~ BEGIN
+//    ~override~ ~SoS.mrk~
+//END
 
 COPY_EXISTING ~misc01.itm~ ~override/SoS.mrk~
 
